@@ -1,0 +1,242 @@
+{
+  "hero": {
+    "headline": "AI Systems Orchestration Engineer",
+    "subheadline": "I build production-grade orchestration and developer workflow systems — and ship interactive products end-to-end.",
+    "proofBullets": [
+      "Built Orchestrator from the ground up: Node/Express orchestration for AI-assisted coding with REST + MCP interfaces.",
+      "Designed safe execution workflows with task/run state, streamed output, git worktrees, and auth/scope controls.",
+      "Shipped cross-platform interactive experiences and optimized performance across mobile, VR, WebGL, and PC."
+    ],
+    "primaryCTA": {
+      "label": "View Projects",
+      "href": "#projects"
+    },
+    "secondaryCTA": {
+      "label": "Download Resume",
+      "href": "#"
+    }
+  },
+  "credibility": {
+    "items": [
+      {
+        "label": "Retention impact",
+        "value": "~12% improvement (A/B testing)"
+      },
+      {
+        "label": "Performance",
+        "value": "20MB APK reduction; ~30% faster load times"
+      },
+      {
+        "label": "Automation",
+        "value": "~40% workload reduction (inventory automation)"
+      }
+    ]
+  },
+  "featuredProjects": [
+    {
+      "slug": "orchestrator",
+      "title": "Orchestrator",
+      "category": "AI Systems Orchestration / Developer Tooling",
+      "oneLineHook": "A Node/Express orchestration system for AI-assisted coding workflows across local repositories with REST and MCP interfaces.",
+      "role": "Builder / Systems Designer",
+      "platforms": [
+        "Web",
+        "Local Developer Environment"
+      ],
+      "tools": [
+        "Node.js",
+        "Express",
+        "Git",
+        "MCP",
+        "OAuth/JWT"
+      ],
+      "highlightBullets": [
+        "Session discovery/resume flow for follow-up runs.",
+        "Plan mode with read-only planning, persisted thread state, and plan deltas.",
+        "Retry/fallback logic and interrupted-state recovery on restart.",
+        "Auth design with token mode, OAuth/JWT + JWKS validation, and scope enforcement."
+      ],
+      "primaryLink": null,
+      "mediaPreview": [],
+      "sourceTrace": {
+        "sourceFile": "manual/orchestrator-context",
+        "note": "Project not present in Projects.csv; populated from current conversation and Orchestrator documentation context."
+      }
+    },
+    {
+      "slug": "imho",
+      "title": "IMHO",
+      "category": "Interactive Systems / Unity",
+      "oneLineHook": "IMHO is an anonymous friend Q&A + social games appshare your link, get honest messages, and play viral prompts.",
+      "role": "Unity Developer",
+      "platforms": [
+        "Android",
+        "IOS"
+      ],
+      "tools": [
+        "Unity",
+        "Android Studio",
+        "X Code",
+        "Mongo DB",
+        "Firebase"
+      ],
+      "highlightBullets": [
+        "Development:Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID).Added multi-language supportfor multiple Indian and international languages, including right-to-left (RTL) scriptslike Arabic.Built native plugins for Android and iOSto facilitate seamless content copying and sharing into social appssuch as Instagram, WhatsApp, and Snapchat.",
+        "Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.",
+        "Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.",
+        "Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID)."
+      ],
+      "primaryLink": "https://play.google.com/store/apps/details?id=cool.imho.sharechatconnect.android&hl=en_IN",
+      "mediaPreview": [
+        "IMHO/IMHO1.png"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 8,
+        "matchedAssetFolder": "IMHO"
+      }
+    },
+    {
+      "slug": "rokeya-s-garden",
+      "title": "Rokeya's Garden",
+      "category": "Interactive Systems / Unity",
+      "oneLineHook": "Rokeya's Garden is a VR experience made to commemorate the legacy of the legendary Indian writer Rokeya Begum Hussain.",
+      "role": "Lead Developer, Technical Artist",
+      "platforms": [
+        "WebGL",
+        "Android VR (Google Cardboard)"
+      ],
+      "tools": [
+        "Unity",
+        "Google Cardboard SDK",
+        "Generative AI"
+      ],
+      "highlightBullets": [
+        "Development:Solely handled all development tasks, including programming and performance optimization, using Unity.Integrated the Google Cardboard SDK to enable a seamless VR experience on Android devices.Built and optimized the WebGL version, tackling challenges like ensuring smooth frame rates and compatibility across web platforms.",
+        "Solely handled all development tasks, including programming and performance optimization, using Unity.",
+        "Solely handled all development tasks, including programming and performance optimization, using Unity.",
+        "Integrated the Google Cardboard SDK to enable a seamless VR experience on Android devices."
+      ],
+      "primaryLink": "https://oddjoint.itch.io/rokeyas-museum",
+      "mediaPreview": [
+        "RokeyasGarden/RG1.png",
+        "RokeyasGarden/RG2.png",
+        "RokeyasGarden/RG3.png"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 4,
+        "matchedAssetFolder": "RokeyasGarden"
+      }
+    },
+    {
+      "slug": "red-hot-ball",
+      "title": "Red Hot Ball",
+      "category": "Interactive Systems / Unity",
+      "oneLineHook": "Red Hot Ball is a simple puzzle game with a unique mechanic.",
+      "role": "Solo Developer",
+      "platforms": [
+        "Android"
+      ],
+      "tools": [
+        "Unity"
+      ],
+      "highlightBullets": [
+        "Development:Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).Integrated Google Play Services for achievements and leaderboards, fostering player engagement and competition.Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics.",
+        "Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).",
+        "Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).",
+        "Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics."
+      ],
+      "primaryLink": "https://play.google.com/store/apps/details?id=com.Exflia.RedHotBalls&hl=en",
+      "mediaPreview": [
+        "RedHotBall/RHB1.png",
+        "RedHotBall/RHB10.jpg",
+        "RedHotBall/RHB11.png"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 3,
+        "matchedAssetFolder": "RedHotBall"
+      }
+    },
+    {
+      "slug": "kai-s-dream",
+      "title": "Kai's Dream",
+      "category": "Interactive Systems / Unreal",
+      "oneLineHook": "Kai's Dream is an open world, first person walking simulator with a unique and interesting camera mechanic.",
+      "role": "Lead Developer",
+      "platforms": [
+        "PC"
+      ],
+      "tools": [
+        "Unreal Engine",
+        "Blueprints",
+        "Custom Shaders",
+        "Asset Optimization Pipelines"
+      ],
+      "highlightBullets": [
+        "Development:Built the game using Unreal Engine, leveraging Blueprints for rapid prototyping and C++ for optimized performance-critical features.Wrote custom shaders to achieve surreal visual effects, enhancing the dreamlike atmosphere of the game.Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques.",
+        "Built the game using Unreal Engine, leveraging Blueprints for rapid prototyping and C++ for optimized performance-critical features.",
+        "Built the game using Unreal Engine, leveraging Blueprints for rapid prototyping and C++ for optimized performance-critical features.",
+        "Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques."
+      ],
+      "primaryLink": "https://www.oddjoint.com/games",
+      "mediaPreview": [
+        "KaisDream/KD1.png",
+        "KaisDream/KD2.png",
+        "KaisDream/KD3.png"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 1,
+        "matchedAssetFolder": "KaisDream"
+      }
+    }
+  ],
+  "sections": {
+    "projectsIntro": {
+      "title": "Featured Work",
+      "copy": "A selection of systems and projects that show how I design, orchestrate, and ship — from AI developer tooling to cross-platform interactive experiences."
+    },
+    "howIWork": {
+      "title": "How I Work",
+      "bullets": [
+        "Start with a clear execution model: inputs, outputs, state, and failure modes.",
+        "Design for safety and iteration: isolated workspaces, resumable sessions, and observable runs.",
+        "Ship in slices: a working vertical path first, then performance, reliability, and polish."
+      ]
+    },
+    "experienceIntro": {
+      "title": "Experience",
+      "copy": "I’ve shipped across production apps and interactive experiences, with a focus on systems architecture, performance, and reusable tooling."
+    },
+    "cta": {
+      "title": "Let’s build the system you need",
+      "copy": "If you need someone who can design the orchestration and ship the product, I’m available for roles and collaborations.",
+      "actions": [
+        {
+          "label": "Email me",
+          "href": "mailto:apoorvmishra05@gmail.com"
+        },
+        {
+          "label": "LinkedIn",
+          "href": "https://www.linkedin.com/in/apoorv-mishra-3b4100163/"
+        }
+      ]
+    }
+  },
+  "globalLinks": {
+    "linkedin_display": "https://www.linkedin.com/in/apoorv-mishra",
+    "linkedin_href": "https://www.linkedin.com/in/apoorv-mishra-3b4100163/",
+    "email": "mailto:apoorvmishra05@gmail.com"
+  },
+  "missingInfo": {
+    "resumePdfFileName": "TODO",
+    "orchestrator": {
+      "timeframe": "TODO",
+      "publicLinks": "TODO",
+      "screenshotsOrMedia": "TODO",
+      "metrics": "TODO"
+    }
+  }
+}

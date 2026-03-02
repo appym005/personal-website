@@ -1,0 +1,114 @@
+{
+  "experience": [
+    {
+      "company": "Self-employed",
+      "role": "Independent Game Developer",
+      "location": "Lucknow, India",
+      "startDate": "Jan 2025",
+      "endDate": "Feb 2025",
+      "summary": "Designed and developed Red Hot Ball , a hyper-casual 2D platformer, delivering market-ready prototypes with monetization and analytics integration.",
+      "impactBullets": [
+        "Designed and developed Red Hot Ball , a hyper-casual 2D platformer, delivering market-ready prototypes with monetization and analytics integration.",
+        "Managed end-to-end development including mechanics, visuals, sound, and documentation for publisher pitches.",
+        "Applied data-driven balancing and testing to improve retention and user engagement."
+      ],
+      "tools": [
+        "analytics"
+      ],
+      "tags": [
+        "Game Dev"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Experience.csv",
+        "sourceRowIndex": 1,
+        "sourceId": "1350bafb-ffe2-421d-9e21-5a32b8a869c0"
+      }
+    },
+    {
+      "company": "Wipro",
+      "role": "Software Developer",
+      "location": "Pune, India",
+      "startDate": "Jan 2022",
+      "endDate": "July 2023",
+      "summary": "Developed an automation system for inventory management , reducing manual workload by ~40%.",
+      "impactBullets": [
+        "Developed an automation system for inventory management , reducing manual workload by ~40%.",
+        "Collaborated with cross-functional stakeholders to design scalable and reusable modules.",
+        "Strengthened software reliability by implementing event/error logging and process monitoring."
+      ],
+      "tools": [
+        "automation",
+        "logging",
+        "monitoring"
+      ],
+      "tags": [
+        "Automation"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Experience.csv",
+        "sourceRowIndex": 2,
+        "sourceId": "9fa7c6d3-d863-4b25-af36-3294a8953b0c"
+      }
+    },
+    {
+      "company": "Oddjoint",
+      "role": "Game Dev Generalist",
+      "location": "Goa, India",
+      "startDate": "Jun 2023",
+      "endDate": "Jan 2025",
+      "summary": "Co-led development of Kai’s Dream (Epic MegaGrant) using Unreal Engine, delivering PC and mobile narrative-driven prototypes.",
+      "impactBullets": [
+        "Co-led development of Kai’s Dream (Epic MegaGrant) using Unreal Engine, delivering PC and mobile narrative-driven prototypes.",
+        "Led development of an IFA-funded VR project , a highly optimised open world for mobile VR.",
+        "Built automation pipelines for cross-platform builds and asset integration , reducing build errors by ~25%.",
+        "Partnered with artists and writers to deliver emotionally impactful gameplay systems aligned with creative vision."
+      ],
+      "tools": [
+        "Unreal Engine",
+        "automation"
+      ],
+      "tags": [
+        "VR",
+        "Automation",
+        "Pipeline",
+        "Game Dev"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Experience.csv",
+        "sourceRowIndex": 3,
+        "sourceId": "bb960360-2844-4616-9a3d-b6b4f11987a1"
+      }
+    },
+    {
+      "company": "Vapronix Web",
+      "role": "Unity Developer",
+      "location": "Noida, India",
+      "startDate": "Feb 25",
+      "endDate": "Present",
+      "summary": "Led development of reusable plug-and-play Unity modules (quests, notifications, analytics, monetization) and standardized integration patterns across multiple projects, improving reuse and delivery speed.",
+      "impactBullets": [
+        "Led development of reusable plug-and-play Unity modules (quests, notifications, analytics, monetization) and standardized integration patterns across multiple projects, improving reuse and delivery speed.",
+        "Introduced A/B testing architecture and drove data-backed iteration, improving retention by ~12%.",
+        "Shipped multiple production features while maintaining healthy release cycles and stability across live apps.",
+        "Optimized performance via profiling and build/asset tuning, cutting APK size by 20MB and reducing load times by ~30%.",
+        "Mentored teammates through code reviews and Unity workflow guidance, raising team delivery efficiency by ~20%.",
+        "Cross team mentoring on Unity animations to design team, enabling in engine animations, reducing final app size .",
+        "Integrated IAPs, platform-specific native features, and new ad SDKs across Word Zenith and IMHO , improving monetization/readiness for release."
+      ],
+      "tools": [
+        "Unity",
+        "A/B testing",
+        "analytics",
+        "IAP"
+      ],
+      "tags": [
+        "Unity"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Experience.csv",
+        "sourceRowIndex": 4,
+        "sourceId": "fe34fbd7-ffb6-4583-a387-b4a5c45c94e2"
+      }
+    }
+  ]
+}

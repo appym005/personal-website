@@ -1,0 +1,57 @@
+{
+  "files": [
+    {
+      "source": "/mnt/d/MyWebsitePort/KaisDream/KD1.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/KaisDream/KD1.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/KaisDream/KD2.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/KaisDream/KD2.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/KaisDream/KD3.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/KaisDream/KD3.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/KaisDream/KD4.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/KaisDream/KD4.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/RokeyasGarden/RG1.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/RokeyasGarden/RG1.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/RokeyasGarden/RG2.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/RokeyasGarden/RG2.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/RokeyasGarden/RG3.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/RokeyasGarden/RG3.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/RokeyasGarden/RG4.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/RokeyasGarden/RG4.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/DesignPreviewer/DP1.mp4",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/DesignPreviewer/DP1.mp4"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/DesignPreviewer/DP2.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/DesignPreviewer/DP2.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/DesignPreviewer/DP3.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/DesignPreviewer/DP3.png"
+    },
+    {
+      "source": "/mnt/d/MyWebsitePort/DesignPreviewer/DP4.png",
+      "target": "/home/da_vinci/projects/PersonalWebsite/media/DesignPreviewer/DP4.png"
+    },
+    {
+      "source": "manual/orchestrator-context",
+      "target": "media/Orchestrator",
+      "note": "No media available yet; TODO"
+    }
+  ]
+}

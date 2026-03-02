@@ -1,0 +1,1235 @@
+{
+  "projects": [
+    {
+      "slug": "kai-s-dream",
+      "title": "Kai's Dream",
+      "category": "Interactive Systems / Unreal",
+      "featuredPriority": 3,
+      "oneLineHook": "Kai's Dream is an open world, first person walking simulator with a unique and interesting camera mechanic.",
+      "role": "Lead Developer",
+      "timeframe": null,
+      "platforms": [
+        "PC"
+      ],
+      "tools": [
+        "Unreal Engine",
+        "Blueprints",
+        "Custom Shaders",
+        "Asset Optimization Pipelines"
+      ],
+      "problem": "Kais Dream is an immersive open-world first-person walking simulator that invites players to explore a dreamlike environment, uncover hidden narratives, and interact with a unique camera-based mechanic. The project was funded by the prestigious Epic MegaGrant, reflecting its innovative vision and potential. Developed in Unreal Engine, the game combines stunning visuals, atmospheric sound design, and groundbreaking gameplay mechanics to create an unforgettable experience.",
+      "approach": [],
+      "architectureHighlights": [
+        "Development:Built the game using Unreal Engine, leveraging Blueprints for rapid prototyping and C++ for optimized performance-critical features.Wrote custom shaders to achieve surreal visual effects, enhancing the dreamlike atmosphere of the game.Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques.",
+        "Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques.",
+        "Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques.",
+        "Technical Innovation:Developed a proprietary camera system that interacts dynamically with the game world, capturing specific elements that influence player progression.Created modular environmental assets and an asset streaming system to enable smooth loading in the expansive open-world setting.Implemented advanced post-processing techniques to create a cinematic feel and enhance player immersion.",
+        "Developed a proprietary camera system that interacts dynamically with the game world, capturing specific elements that influence player progression.",
+        "Developed a proprietary camera system that interacts dynamically with the game world, capturing specific elements that influence player progression.",
+        "Created modular environmental assets and an asset streaming system to enable smooth loading in the expansive open-world setting.",
+        "Created modular environmental assets and an asset streaming system to enable smooth loading in the expansive open-world setting."
+      ],
+      "systemDesignHighlights": [
+        "Development:Built the game using Unreal Engine, leveraging Blueprints for rapid prototyping and C++ for optimized performance-critical features.Wrote custom shaders to achieve surreal visual effects, enhancing the dreamlike atmosphere of the game.Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques.",
+        "Built the game using Unreal Engine, leveraging Blueprints for rapid prototyping and C++ for optimized performance-critical features.",
+        "Built the game using Unreal Engine, leveraging Blueprints for rapid prototyping and C++ for optimized performance-critical features.",
+        "Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques.",
+        "Optimized the game for seamless performance across various PC configurations, using LOD systems, texture compression, and dynamic lighting techniques.",
+        "Technical Innovation:Developed a proprietary camera system that interacts dynamically with the game world, capturing specific elements that influence player progression.Created modular environmental assets and an asset streaming system to enable smooth loading in the expansive open-world setting.Implemented advanced post-processing techniques to create a cinematic feel and enhance player immersion.",
+        "Developed a proprietary camera system that interacts dynamically with the game world, capturing specific elements that influence player progression.",
+        "Developed a proprietary camera system that interacts dynamically with the game world, capturing specific elements that influence player progression.",
+        "Created modular environmental assets and an asset streaming system to enable smooth loading in the expansive open-world setting.",
+        "Created modular environmental assets and an asset streaming system to enable smooth loading in the expansive open-world setting."
+      ],
+      "keyContributions": [
+        "Game Design:Conceptualized and implemented the unique camera mechanic that serves as the central gameplay feature, enabling players to capture and manipulate dreamlike visuals as part of the narrative progression.Designed a vast open world filled with interactive elements and environmental storytelling, ensuring players remain engaged throughout their journey.",
+        "Conceptualized and implemented the unique camera mechanic that serves as the central gameplay feature, enabling players to capture and manipulate dreamlike visuals as part of the narrative progression.",
+        "Conceptualized and implemented the unique camera mechanic that serves as the central gameplay feature, enabling players to capture and manipulate dreamlike visuals as part of the narrative progression.",
+        "Designed a vast open world filled with interactive elements and environmental storytelling, ensuring players remain engaged throughout their journey.",
+        "Designed a vast open world filled with interactive elements and environmental storytelling, ensuring players remain engaged throughout their journey.",
+        "Wrote custom shaders to achieve surreal visual effects, enhancing the dreamlike atmosphere of the game.",
+        "Wrote custom shaders to achieve surreal visual effects, enhancing the dreamlike atmosphere of the game.",
+        "Implemented advanced post-processing techniques to create a cinematic feel and enhance player immersion.",
+        "Implemented advanced post-processing techniques to create a cinematic feel and enhance player immersion."
+      ],
+      "outcomesMetrics": [
+        "Secured funding through the Epic MegaGrant, a testament to the projects creativity and technical prowess.",
+        "Secured funding through the Epic MegaGrant, a testament to the projects creativity and technical prowess.",
+        "Garnered praise from playtesters for its immersive gameplay and innovative mechanics.",
+        "Garnered praise from playtesters for its immersive gameplay and innovative mechanics.",
+        "Positioned as a showcase project for leveraging Unreal Engine in the walking simulator genre.",
+        "Positioned as a showcase project for leveraging Unreal Engine in the walking simulator genre.",
+        "https://www.reddit.com/r/KaisDream/"
+      ],
+      "mediaAssets": [
+        "KaisDream/KD1.png",
+        "KaisDream/KD2.png",
+        "KaisDream/KD3.png",
+        "KaisDream/KD4.png",
+        "KaisDream/KD5.png",
+        "KaisDream/KD6.png",
+        "KaisDream/KD7.png",
+        "KaisDream/KD8.png",
+        "KaisDream/KD9.png"
+      ],
+      "links": [
+        {
+          "title": "GAMES  ODD",
+          "url": "https://www.oddjoint.com/games",
+          "type": "link_preview"
+        },
+        {
+          "title": null,
+          "url": "https://www.reddit.com/r/KaisDream/",
+          "type": "inline_url"
+        }
+      ],
+      "tags": [
+        "PC",
+        "Unreal Engine",
+        "Blueprints",
+        "Custom Shaders",
+        "Asset Optimization Pipelines"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 1,
+        "matchedAssetFolder": "KaisDream"
+      }
+    },
+    {
+      "slug": "anant-ratri",
+      "title": "Anant Ratri",
+      "category": "Interactive Systems / Unreal",
+      "featuredPriority": 4,
+      "oneLineHook": "Anant Ratri is a psychological horror game based in a procedurally generated world.",
+      "role": "Developer and Designer",
+      "timeframe": null,
+      "platforms": [
+        "PC"
+      ],
+      "tools": [
+        "Unreal Engine",
+        "Procedural Generation Algorithms",
+        "Custom Blueprint Systems"
+      ],
+      "problem": "Anant Ratriis a personal passion project that redefines the psychological horror genre with a unique twist. The game leverages procedurally generated worldsto heighten fear and confusion, ensuring no two playthroughs are alike. This project emphasizes immersive gameplay, unsettling environments, and robust mechanics, making it a standout horror experience.",
+      "approach": [],
+      "architectureHighlights": [
+        "Development:Created an advanced procedural generation systemto dynamically generate haunting, non-repetitive environments.Developed procedural toolsthat empower designers to quickly build and customize levels with minimal manual effort. These tools simplified asset placement, terrain adjustments, and path generation.Built custom interaction systems, including inventory mechanics, interactive puzzles, and environmental manipulation.Handcrafted visual effects, materials, and shaders to create a surreal and disturbing aesthetic.",
+        "Created an advanced procedural generation systemto dynamically generate haunting, non-repetitive environments.",
+        "Created an advanced procedural generation systemto dynamically generate haunting, non-repetitive environments.",
+        "Built custom interaction systems, including inventory mechanics, interactive puzzles, and environmental manipulation.",
+        "Built custom interaction systems, including inventory mechanics, interactive puzzles, and environmental manipulation.",
+        "Technical Innovation:Designed and implemented designer-friendly procedural generation tools, enabling rapid iteration and creative freedom.Optimized performance for PC, ensuring real-time rendering of complex procedural elements on mid-range hardware.Developed modular inventory and interaction systems, making them scalable and reusable.Leveraged dynamic environmental cues to manipulate player emotions and enhance immersion.",
+        "Developed modular inventory and interaction systems, making them scalable and reusable.",
+        "Developed modular inventory and interaction systems, making them scalable and reusable."
+      ],
+      "systemDesignHighlights": [
+        "Development:Created an advanced procedural generation systemto dynamically generate haunting, non-repetitive environments.Developed procedural toolsthat empower designers to quickly build and customize levels with minimal manual effort. These tools simplified asset placement, terrain adjustments, and path generation.Built custom interaction systems, including inventory mechanics, interactive puzzles, and environmental manipulation.Handcrafted visual effects, materials, and shaders to create a surreal and disturbing aesthetic.",
+        "Created an advanced procedural generation systemto dynamically generate haunting, non-repetitive environments.",
+        "Created an advanced procedural generation systemto dynamically generate haunting, non-repetitive environments.",
+        "Developed procedural toolsthat empower designers to quickly build and customize levels with minimal manual effort. These tools simplified asset placement, terrain adjustments, and path generation.",
+        "Developed procedural toolsthat empower designers to quickly build and customize levels with minimal manual effort. These tools simplified asset placement, terrain adjustments, and path generation.",
+        "Built custom interaction systems, including inventory mechanics, interactive puzzles, and environmental manipulation.",
+        "Built custom interaction systems, including inventory mechanics, interactive puzzles, and environmental manipulation.",
+        "Technical Innovation:Designed and implemented designer-friendly procedural generation tools, enabling rapid iteration and creative freedom.Optimized performance for PC, ensuring real-time rendering of complex procedural elements on mid-range hardware.Developed modular inventory and interaction systems, making them scalable and reusable.Leveraged dynamic environmental cues to manipulate player emotions and enhance immersion.",
+        "Designed and implemented designer-friendly procedural generation tools, enabling rapid iteration and creative freedom.",
+        "Designed and implemented designer-friendly procedural generation tools, enabling rapid iteration and creative freedom.",
+        "Optimized performance for PC, ensuring real-time rendering of complex procedural elements on mid-range hardware.",
+        "Optimized performance for PC, ensuring real-time rendering of complex procedural elements on mid-range hardware.",
+        "Developed modular inventory and interaction systems, making them scalable and reusable.",
+        "Developed modular inventory and interaction systems, making them scalable and reusable."
+      ],
+      "keyContributions": [
+        "Game Design:Conceptualized and implemented a dynamic psychological horror experience centered around player unpredictability and fear.Designed eerie, interactive environments and developed narrative-driven gameplay elements.Embedded subtle environmental storytelling to enhance immersion.",
+        "Conceptualized and implemented a dynamic psychological horror experience centered around player unpredictability and fear.",
+        "Conceptualized and implemented a dynamic psychological horror experience centered around player unpredictability and fear.",
+        "Designed eerie, interactive environments and developed narrative-driven gameplay elements.",
+        "Designed eerie, interactive environments and developed narrative-driven gameplay elements.",
+        "Embedded subtle environmental storytelling to enhance immersion.",
+        "Embedded subtle environmental storytelling to enhance immersion.",
+        "Handcrafted visual effects, materials, and shaders to create a surreal and disturbing aesthetic.",
+        "Handcrafted visual effects, materials, and shaders to create a surreal and disturbing aesthetic.",
+        "Leveraged dynamic environmental cues to manipulate player emotions and enhance immersion.",
+        "Leveraged dynamic environmental cues to manipulate player emotions and enhance immersion."
+      ],
+      "outcomesMetrics": [
+        "The game showcases my expertise in procedural generation, system design, and psychological horror.",
+        "The game showcases my expertise in procedural generation, system design, and psychological horror.",
+        "The procedural toolshave potential for broader application in other projects, demonstrating my ability to create reusable development frameworks.",
+        "The procedural toolshave potential for broader application in other projects, demonstrating my ability to create reusable development frameworks.",
+        "Received praise from early testers for its originality and technical depth, positioning it as a promising project for potential commercial release.",
+        "Received praise from early testers for its originality and technical depth, positioning it as a promising project for potential commercial release."
+      ],
+      "mediaAssets": [
+        "AnantRatri/AR1.mp4",
+        "AnantRatri/AR10.png",
+        "AnantRatri/AR11.png",
+        "AnantRatri/AR12.png",
+        "AnantRatri/AR13.mp4",
+        "AnantRatri/AR14.png",
+        "AnantRatri/AR2.png",
+        "AnantRatri/AR3.png",
+        "AnantRatri/AR4.png",
+        "AnantRatri/AR5.png",
+        "AnantRatri/AR6.png",
+        "AnantRatri/AR7.png",
+        "AnantRatri/AR8.png",
+        "AnantRatri/AR9.png"
+      ],
+      "links": [],
+      "tags": [
+        "PC",
+        "Unreal Engine",
+        "Procedural Generation Algorithms",
+        "Custom Blueprint Systems"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 2,
+        "matchedAssetFolder": "AnantRatri"
+      }
+    },
+    {
+      "slug": "red-hot-ball",
+      "title": "Red Hot Ball",
+      "category": "Interactive Systems / Unity",
+      "featuredPriority": 2,
+      "oneLineHook": "Red Hot Ball is a simple puzzle game with a unique mechanic.",
+      "role": "Solo Developer",
+      "timeframe": null,
+      "platforms": [
+        "Android"
+      ],
+      "tools": [
+        "Unity"
+      ],
+      "problem": "Red Hot Ball is a physics-based puzzle game inspired by the viral fascination with red-hot balls melting through objects. The game challenges players to strategically heat a ball and navigate obstacles to progress through uniquely designed levels. This project not only marked my first self-released game but also served as a foundation for creating a robust game development pipeline that significantly accelerates the production of future casual games.",
+      "approach": [],
+      "architectureHighlights": [
+        "Development:Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).Integrated Google Play Services for achievements and leaderboards, fostering player engagement and competition.Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics.",
+        "Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).",
+        "Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).",
+        "Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics.",
+        "Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics.",
+        "Pipeline Innovation:Developed a streamlined pipeline for hyper-casual game development by leveraging task prioritization, asset workflow automation, and modular templates for UI and mechanics.Built custom tools within Unity to automate repetitive tasks such as texture optimization and prefab generation, significantly reducing development time.",
+        "Developed a streamlined pipeline for hyper-casual game development by leveraging task prioritization, asset workflow automation, and modular templates for UI and mechanics.",
+        "Developed a streamlined pipeline for hyper-casual game development by leveraging task prioritization, asset workflow automation, and modular templates for UI and mechanics."
+      ],
+      "systemDesignHighlights": [
+        "Development:Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).Integrated Google Play Services for achievements and leaderboards, fostering player engagement and competition.Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics.",
+        "Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).",
+        "Built the entire game architecture, including the physics-driven core mechanic, level progression system, and reward mechanics (star-based scoring).",
+        "Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics.",
+        "Designed an efficient modular codebase, enabling rapid iteration and seamless addition of new levels or mechanics.",
+        "Pipeline Innovation:Developed a streamlined pipeline for hyper-casual game development by leveraging task prioritization, asset workflow automation, and modular templates for UI and mechanics.Built custom tools within Unity to automate repetitive tasks such as texture optimization and prefab generation, significantly reducing development time.",
+        "Developed a streamlined pipeline for hyper-casual game development by leveraging task prioritization, asset workflow automation, and modular templates for UI and mechanics.",
+        "Developed a streamlined pipeline for hyper-casual game development by leveraging task prioritization, asset workflow automation, and modular templates for UI and mechanics.",
+        "Built custom tools within Unity to automate repetitive tasks such as texture optimization and prefab generation, significantly reducing development time.",
+        "Built custom tools within Unity to automate repetitive tasks such as texture optimization and prefab generation, significantly reducing development time.",
+        "Optimization:Utilized advanced physics tweaking and resource management to ensure smooth performance across a variety of Android devices, including low-end models.Applied dynamic level loading and object pooling techniques to enhance memory usage and reduce loading times."
+      ],
+      "keyContributions": [
+        "Game Design:Personally designed every level, using principles from game design experts such as GMTK to ensure engaging and balanced challenges.Created a progression curve that gradually introduces new mechanics, keeping players intrigued and improving their mastery over time.",
+        "Personally designed every level, using principles from game design experts such as GMTK to ensure engaging and balanced challenges.",
+        "Personally designed every level, using principles from game design experts such as GMTK to ensure engaging and balanced challenges.",
+        "Created a progression curve that gradually introduces new mechanics, keeping players intrigued and improving their mastery over time.",
+        "Created a progression curve that gradually introduces new mechanics, keeping players intrigued and improving their mastery over time.",
+        "Integrated Google Play Services for achievements and leaderboards, fostering player engagement and competition.",
+        "Integrated Google Play Services for achievements and leaderboards, fostering player engagement and competition.",
+        "Utilized advanced physics tweaking and resource management to ensure smooth performance across a variety of Android devices, including low-end models.",
+        "Utilized advanced physics tweaking and resource management to ensure smooth performance across a variety of Android devices, including low-end models.",
+        "Applied dynamic level loading and object pooling techniques to enhance memory usage and reduce loading times.",
+        "Applied dynamic level loading and object pooling techniques to enhance memory usage and reduce loading times."
+      ],
+      "outcomesMetrics": [
+        "Released as an invite-only early access game to generate excitement and gather valuable user feedback for future updates.",
+        "Released as an invite-only early access game to generate excitement and gather valuable user feedback for future updates.",
+        "Created a dedicated player testing group, leveraging user feedback to refine gameplay mechanics and identify areas for improvement.",
+        "Created a dedicated player testing group, leveraging user feedback to refine gameplay mechanics and identify areas for improvement.",
+        "Laid the foundation for a hyper-casual game development pipeline that has streamlined my future projects.",
+        "Laid the foundation for a hyper-casual game development pipeline that has streamlined my future projects.",
+        "Garnered positive feedback during early access for its innovative mechanic and intuitive gameplay.",
+        "Garnered positive feedback during early access for its innovative mechanic and intuitive gameplay.",
+        "Positioned the game as a strong example of creative and technical innovation in the casual gaming market.",
+        "Positioned the game as a strong example of creative and technical innovation in the casual gaming market."
+      ],
+      "mediaAssets": [
+        "RedHotBall/RHB1.png",
+        "RedHotBall/RHB10.jpg",
+        "RedHotBall/RHB11.png",
+        "RedHotBall/RHB2.png",
+        "RedHotBall/RHB3.png",
+        "RedHotBall/RHB4.png",
+        "RedHotBall/RHB5.png",
+        "RedHotBall/RHB6.png",
+        "RedHotBall/RHB7.png",
+        "RedHotBall/RHB8.png",
+        "RedHotBall/RHB9.png"
+      ],
+      "links": [
+        {
+          "title": "Red Hot Ball: Fire vs Ice - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.Exflia.RedHotBalls&hl=en",
+          "type": "link_preview"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Unity"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 3,
+        "matchedAssetFolder": "RedHotBall"
+      }
+    },
+    {
+      "slug": "rokeya-s-garden",
+      "title": "Rokeya's Garden",
+      "category": "Interactive Systems / Unity",
+      "featuredPriority": 1,
+      "oneLineHook": "Rokeya's Garden is a VR experience made to commemorate the legacy of the legendary Indian writer Rokeya Begum Hussain.",
+      "role": "Lead Developer, Technical Artist",
+      "timeframe": null,
+      "platforms": [
+        "WebGL",
+        "Android VR (Google Cardboard)"
+      ],
+      "tools": [
+        "Unity",
+        "Google Cardboard SDK",
+        "Generative AI"
+      ],
+      "problem": "Rokeya's Garden is an immersive interactive experience blending open-world exploration with narrative storytelling, developed as part of a project funded by the Indian Foundation of Arts (IFA). Showcased at Animela Festival (Mumbai) and IFA's event (Bangalore), the project was celebrated for its innovative use of WebGL and VR to bring art and storytelling to life.",
+      "approach": [],
+      "architectureHighlights": [],
+      "systemDesignHighlights": [
+        "Development:Solely handled all development tasks, including programming and performance optimization, using Unity.Integrated the Google Cardboard SDK to enable a seamless VR experience on Android devices.Built and optimized the WebGL version, tackling challenges like ensuring smooth frame rates and compatibility across web platforms.",
+        "Solely handled all development tasks, including programming and performance optimization, using Unity.",
+        "Solely handled all development tasks, including programming and performance optimization, using Unity.",
+        "Integrated the Google Cardboard SDK to enable a seamless VR experience on Android devices.",
+        "Integrated the Google Cardboard SDK to enable a seamless VR experience on Android devices.",
+        "Built and optimized the WebGL version, tackling challenges like ensuring smooth frame rates and compatibility across web platforms.",
+        "Built and optimized the WebGL version, tackling challenges like ensuring smooth frame rates and compatibility across web platforms.",
+        "Optimization Expertise:Streamlined the project to deliver an open-world experience within the constraints of WebGL and Android VR.Utilized custom asset compression techniques, shader optimization, and efficient resource management to achieve a balance of performance and quality.",
+        "Streamlined the project to deliver an open-world experience within the constraints of WebGL and Android VR.",
+        "Streamlined the project to deliver an open-world experience within the constraints of WebGL and Android VR.",
+        "Utilized custom asset compression techniques, shader optimization, and efficient resource management to achieve a balance of performance and quality.",
+        "Utilized custom asset compression techniques, shader optimization, and efficient resource management to achieve a balance of performance and quality.",
+        "Technical Artistry:Designed and implemented custom shaders to enhance the projects visual appeal.Generated textures and 3D assets using AI, refining and optimizing them for performance and seamless integration.",
+        "Generated textures and 3D assets using AI, refining and optimizing them for performance and seamless integration.",
+        "Generated textures and 3D assets using AI, refining and optimizing them for performance and seamless integration."
+      ],
+      "keyContributions": [
+        "Designed and implemented custom shaders to enhance the projects visual appeal.",
+        "Designed and implemented custom shaders to enhance the projects visual appeal.",
+        "Collaboration:Worked closely with a team comprising a 3D artist, sound artist, and game writer to ensure cohesion in art, sound, and storytelling.Regularly collaborated with the projects director to align vision, manage milestones, and execute creative direction.",
+        "Worked closely with a team comprising a 3D artist, sound artist, and game writer to ensure cohesion in art, sound, and storytelling.",
+        "Worked closely with a team comprising a 3D artist, sound artist, and game writer to ensure cohesion in art, sound, and storytelling.",
+        "Regularly collaborated with the projects director to align vision, manage milestones, and execute creative direction.",
+        "Regularly collaborated with the projects director to align vision, manage milestones, and execute creative direction."
+      ],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "RokeyasGarden/RG1.png",
+        "RokeyasGarden/RG2.png",
+        "RokeyasGarden/RG3.png",
+        "RokeyasGarden/RG4.png",
+        "RokeyasGarden/RG5.png",
+        "RokeyasGarden/RG6.png",
+        "RokeyasGarden/RG7.png",
+        "RokeyasGarden/RG8.jpg",
+        "RokeyasGarden/RG9.png"
+      ],
+      "links": [
+        {
+          "title": "Rokeya's Museum by OddJoint",
+          "url": "https://oddjoint.itch.io/rokeyas-museum",
+          "type": "link_preview"
+        }
+      ],
+      "tags": [
+        "WebGL",
+        "Android VR (Google Cardboard)",
+        "Unity",
+        "Google Cardboard SDK",
+        "Generative AI"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 4,
+        "matchedAssetFolder": "RokeyasGarden"
+      }
+    },
+    {
+      "slug": "gone-away",
+      "title": "Gone Away",
+      "category": "Project",
+      "featuredPriority": 11,
+      "oneLineHook": "An RPG adventure game I made for the Aard Game Jam #3 using the YAHAHA Game Studio.",
+      "role": "Game Developer | Designer",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "YAHAHA Game Studio"
+      ],
+      "problem": null,
+      "approach": [],
+      "architectureHighlights": [],
+      "systemDesignHighlights": [],
+      "keyContributions": [],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "GoneAway/GA1.mp4",
+        "GoneAway/GA10.png",
+        "GoneAway/GA11.png",
+        "GoneAway/GA12.png",
+        "GoneAway/GA13.png",
+        "GoneAway/GA14.png",
+        "GoneAway/GA15.png",
+        "GoneAway/GA16.png",
+        "GoneAway/GA17.png",
+        "GoneAway/GA18.png",
+        "GoneAway/GA19.png",
+        "GoneAway/GA2.png",
+        "GoneAway/GA20.png",
+        "GoneAway/GA21.png",
+        "GoneAway/GA22.png",
+        "GoneAway/GA23.png",
+        "GoneAway/GA24.png",
+        "GoneAway/GA25.png",
+        "GoneAway/GA26.png",
+        "GoneAway/GA27.png",
+        "GoneAway/GA28.png",
+        "GoneAway/GA29.png",
+        "GoneAway/GA3.png",
+        "GoneAway/GA30.png",
+        "GoneAway/GA31.png",
+        "GoneAway/GA32.png",
+        "GoneAway/GA33.png",
+        "GoneAway/GA34.png",
+        "GoneAway/GA35.png",
+        "GoneAway/GA4.png",
+        "GoneAway/GA5.png",
+        "GoneAway/GA6.png",
+        "GoneAway/GA7.png",
+        "GoneAway/GA8.png",
+        "GoneAway/GA9.png"
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://l00n4t1cp4nd4.itch.io/gone-away",
+          "type": "inline_url"
+        }
+      ],
+      "tags": [
+        "YAHAHA Game Studio"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 5,
+        "matchedAssetFolder": "GoneAway"
+      }
+    },
+    {
+      "slug": "procedural-endless-terrain",
+      "title": "Procedural Endless Terrain",
+      "category": "Interactive Systems / Unity",
+      "featuredPriority": 14,
+      "oneLineHook": "A procedurally generated endless terrain system in Unity using C# with Perlin noise, LOD optimization, and multithreading for smooth performance",
+      "role": "Programmer | Technical Artist",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "Unity",
+        "C#",
+        "Shader Graph"
+      ],
+      "problem": null,
+      "approach": [],
+      "architectureHighlights": [],
+      "systemDesignHighlights": [],
+      "keyContributions": [],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "ProceduralEndlessTerrain/PET1.png",
+        "ProceduralEndlessTerrain/PET2.png",
+        "ProceduralEndlessTerrain/PET3.png",
+        "ProceduralEndlessTerrain/PET4.png",
+        "ProceduralEndlessTerrain/PET5.png",
+        "ProceduralEndlessTerrain/PET6.png",
+        "ProceduralEndlessTerrain/PET7.png"
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.youtube.com/watch?v=7BR__hQjtwk",
+          "type": "inline_url"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "C#",
+        "Shader Graph"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 6,
+        "matchedAssetFolder": "ProceduralEndlessTerrain"
+      }
+    },
+    {
+      "slug": "wobbly-adventures",
+      "title": "Wobbly Adventures",
+      "category": "Interactive Systems / Unreal",
+      "featuredPriority": 9,
+      "oneLineHook": "Wobbly Adventures is a 3D platformer I developed in Unreal Engine, featuring unique mechanics, level design, character creation, and a fully integrated HUD and audio.",
+      "role": "Game Designer | Developer",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "Unreal Engine",
+        "Mixamo",
+        "Quixel Bridge",
+        "Various Asset Packs"
+      ],
+      "problem": null,
+      "approach": [],
+      "architectureHighlights": [],
+      "systemDesignHighlights": [],
+      "keyContributions": [],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "WobblyAdventures/WA1.mp4",
+        "WobblyAdventures/WA10.png",
+        "WobblyAdventures/WA11.png",
+        "WobblyAdventures/WA12.png",
+        "WobblyAdventures/WA13.jpg",
+        "WobblyAdventures/WA2.png",
+        "WobblyAdventures/WA3.png",
+        "WobblyAdventures/WA4.png",
+        "WobblyAdventures/WA5.png",
+        "WobblyAdventures/WA6.png",
+        "WobblyAdventures/WA7.png",
+        "WobblyAdventures/WA8.png",
+        "WobblyAdventures/WA9.png"
+      ],
+      "links": [
+        {
+          "title": "Wobbly Adventures across Dimensions by l00n4t1cp4nd4",
+          "url": "https://l00n4t1cp4nd4.itch.io/wobbly-adventures-across-dimensions",
+          "type": "link_preview"
+        },
+        {
+          "title": null,
+          "url": "https://www.youtube.com/watch?v=F9kIyr89WNE&t=2s",
+          "type": "inline_url"
+        }
+      ],
+      "tags": [
+        "Unreal Engine",
+        "Mixamo",
+        "Quixel Bridge",
+        "Various Asset Packs"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 7,
+        "matchedAssetFolder": "WobblyAdventures"
+      }
+    },
+    {
+      "slug": "imho",
+      "title": "IMHO",
+      "category": "Interactive Systems / Unity",
+      "featuredPriority": 0,
+      "oneLineHook": "IMHO is an anonymous friend Q&A + social games appshare your link, get honest messages, and play viral prompts.",
+      "role": "Unity Developer",
+      "timeframe": null,
+      "platforms": [
+        "Android",
+        "IOS"
+      ],
+      "tools": [
+        "Unity",
+        "Android Studio",
+        "X Code",
+        "Mongo DB",
+        "Firebase"
+      ],
+      "problem": "IMHO: Anonymous Friend Q&Ais a social app for open, honest interactions. You share a customizable IMHO link on Instagram, Snapchat, or WhatsApp; friends respond anonymously, and you reply or turn answers into shareable moments. It also includes viral social mini-games like Ask Me Anything, Unpopular Opinion, Rizzler, and CUPID, with an IMHO Protier that adds extras like sender-hint perks.",
+      "approach": [],
+      "architectureHighlights": [
+        "Development:Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID).Added multi-language supportfor multiple Indian and international languages, including right-to-left (RTL) scriptslike Arabic.Built native plugins for Android and iOSto facilitate seamless content copying and sharing into social appssuch as Instagram, WhatsApp, and Snapchat.",
+        "Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.",
+        "Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.",
+        "Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID).",
+        "Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID).",
+        "Data & Strategy:Designed and deployed a custom analytics architectureto capture granular player events, funnels, and experiments.Enabled A/B testingon onboarding, link sharing, paywalls, and game prompts to drive data-backed iteration and improve engagement.",
+        "Designed and deployed a custom analytics architectureto capture granular player events, funnels, and experiments.",
+        "Designed and deployed a custom analytics architectureto capture granular player events, funnels, and experiments.",
+        "Optimization Expertise:Optimized startup and deep-link open times with lazy loading and caching.Reduced APK size via asset pruning and modularization.Integrated anti-spam/rate-limit mechanismsto keep sessions clean.",
+        "Reduced APK size via asset pruning and modularization.",
+        "Reduced APK size via asset pruning and modularization."
+      ],
+      "systemDesignHighlights": [
+        "Development:Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID).Added multi-language supportfor multiple Indian and international languages, including right-to-left (RTL) scriptslike Arabic.Built native plugins for Android and iOSto facilitate seamless content copying and sharing into social appssuch as Instagram, WhatsApp, and Snapchat.",
+        "Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.",
+        "Built modular anonymous Q&A flowswith shareable links, inbox & reply UX, and notifications.",
+        "Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID).",
+        "Created a games hubarchitecture for plug-and-play formats (AMA, Unpopular Opinion, Rizzler, CUPID).",
+        "Data & Strategy:Designed and deployed a custom analytics architectureto capture granular player events, funnels, and experiments.Enabled A/B testingon onboarding, link sharing, paywalls, and game prompts to drive data-backed iteration and improve engagement.",
+        "Designed and deployed a custom analytics architectureto capture granular player events, funnels, and experiments.",
+        "Designed and deployed a custom analytics architectureto capture granular player events, funnels, and experiments.",
+        "Optimization Expertise:Optimized startup and deep-link open times with lazy loading and caching.Reduced APK size via asset pruning and modularization.Integrated anti-spam/rate-limit mechanismsto keep sessions clean.",
+        "Optimized startup and deep-link open times with lazy loading and caching.",
+        "Optimized startup and deep-link open times with lazy loading and caching.",
+        "Reduced APK size via asset pruning and modularization.",
+        "Reduced APK size via asset pruning and modularization."
+      ],
+      "keyContributions": [
+        "Added multi-language supportfor multiple Indian and international languages, including right-to-left (RTL) scriptslike Arabic.",
+        "Added multi-language supportfor multiple Indian and international languages, including right-to-left (RTL) scriptslike Arabic.",
+        "Built native plugins for Android and iOSto facilitate seamless content copying and sharing into social appssuch as Instagram, WhatsApp, and Snapchat.",
+        "Built native plugins for Android and iOSto facilitate seamless content copying and sharing into social appssuch as Instagram, WhatsApp, and Snapchat.",
+        "Monetization & Live Ops:Implemented ad monetization(rewarded, interstitial, native placements) and IAP for IMHO Pro(sender hints, premium games, perks).Connected monetization levers (paywalls, ad pacing, sender hints) to remote configurationfor rapid live tuning.",
+        "Implemented ad monetization(rewarded, interstitial, native placements) and IAP for IMHO Pro(sender hints, premium games, perks).",
+        "Implemented ad monetization(rewarded, interstitial, native placements) and IAP for IMHO Pro(sender hints, premium games, perks).",
+        "Connected monetization levers (paywalls, ad pacing, sender hints) to remote configurationfor rapid live tuning.",
+        "Connected monetization levers (paywalls, ad pacing, sender hints) to remote configurationfor rapid live tuning.",
+        "Enabled A/B testingon onboarding, link sharing, paywalls, and game prompts to drive data-backed iteration and improve engagement.",
+        "Enabled A/B testingon onboarding, link sharing, paywalls, and game prompts to drive data-backed iteration and improve engagement.",
+        "Integrated anti-spam/rate-limit mechanismsto keep sessions clean.",
+        "Integrated anti-spam/rate-limit mechanismsto keep sessions clean.",
+        "Team Collaboration:Conducted code reviews and mentoring sessions, increasing sprint velocity and delivery quality.Worked with backend and product teams to align feature roadmaps with analytics-driven priorities.",
+        "Conducted code reviews and mentoring sessions, increasing sprint velocity and delivery quality.",
+        "Conducted code reviews and mentoring sessions, increasing sprint velocity and delivery quality.",
+        "Worked with backend and product teams to align feature roadmaps with analytics-driven priorities.",
+        "Worked with backend and product teams to align feature roadmaps with analytics-driven priorities."
+      ],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "IMHO/IMHO1.png"
+      ],
+      "links": [
+        {
+          "title": "IMHO: Anonymous Friend Q&A  Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=cool.imho.sharechatconnect.android&hl=en_IN",
+          "type": "link_preview"
+        },
+        {
+          "title": "?IMHO: Honest Q&A with friends",
+          "url": "https://apps.apple.com/in/app/imho-honest-q-a-with-friends/id6743737312",
+          "type": "link_preview"
+        }
+      ],
+      "tags": [
+        "Android",
+        "IOS",
+        "Unity",
+        "Android Studio",
+        "X Code",
+        "Mongo DB"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 8,
+        "matchedAssetFolder": "IMHO"
+      }
+    },
+    {
+      "slug": "procedural-animations",
+      "title": "Procedural Animations",
+      "category": "Project",
+      "featuredPriority": 8,
+      "oneLineHook": "In this project I learned and made procedural animation systems using UE5 control rig.",
+      "role": "Technical Animator and Developer",
+      "timeframe": null,
+      "platforms": [
+        "Unreal Engine 5"
+      ],
+      "tools": [],
+      "problem": "This study explores the power and flexibility of procedural animationsin Unreal Engine 5 using Control Rigs. Unlike traditional hand-made or motion-captured animations, procedural animations are calculated in real-time, making them highly adaptable to environmental changes and dynamic gameplay scenarios.",
+      "approach": [
+        "By integrating procedural techniques with traditional animations, I developed innovative systems that offer unparalleled realism and responsiveness for character movements, solving key challenges in complex animation scenarios."
+      ],
+      "architectureHighlights": [
+        "Procedural Animation System Design:Developed a control rig-based animation systemto dynamically manipulate skeleton bones based on real-time game inputs.Created a system that adjusts animations to varying speeds, ensuring seamless transitions between walking, running, and other movements.Implemented advanced terrain adaptation, enabling accurate foot placement and rotationon uneven and complex surfaces.",
+        "Developed a control rig-based animation systemto dynamically manipulate skeleton bones based on real-time game inputs.",
+        "Developed a control rig-based animation systemto dynamically manipulate skeleton bones based on real-time game inputs.",
+        "Created a system that adjusts animations to varying speeds, ensuring seamless transitions between walking, running, and other movements.",
+        "Created a system that adjusts animations to varying speeds, ensuring seamless transitions between walking, running, and other movements.",
+        "Layered Animation System:Combined procedural animations with traditional keyframed and motion-captured animations to create blended, realistic movements.Integrated procedural rigs with physics simulationsfor enhanced interactions, such as characters dynamically reacting to forces or objects."
+      ],
+      "systemDesignHighlights": [
+        "Procedural Animation System Design:Developed a control rig-based animation systemto dynamically manipulate skeleton bones based on real-time game inputs.Created a system that adjusts animations to varying speeds, ensuring seamless transitions between walking, running, and other movements.Implemented advanced terrain adaptation, enabling accurate foot placement and rotationon uneven and complex surfaces.",
+        "Developed a control rig-based animation systemto dynamically manipulate skeleton bones based on real-time game inputs.",
+        "Developed a control rig-based animation systemto dynamically manipulate skeleton bones based on real-time game inputs.",
+        "Created a system that adjusts animations to varying speeds, ensuring seamless transitions between walking, running, and other movements.",
+        "Created a system that adjusts animations to varying speeds, ensuring seamless transitions between walking, running, and other movements.",
+        "Custom Features:Designed and implemented parameters for easy customization of animation components, including stride length, step height, pelvis tilt, and more.Integrated physics-based interactionswith procedural animations to create unique, dynamic movements, such as objects reacting to character interactions in real-time.Developed hand detection logicfor interactive gameplay features, allowing characters to respond naturally to objects in their environment.",
+        "Integrated physics-based interactionswith procedural animations to create unique, dynamic movements, such as objects reacting to character interactions in real-time.",
+        "Integrated physics-based interactionswith procedural animations to create unique, dynamic movements, such as objects reacting to character interactions in real-time.",
+        "Layered Animation System:Combined procedural animations with traditional keyframed and motion-captured animations to create blended, realistic movements.Integrated procedural rigs with physics simulationsfor enhanced interactions, such as characters dynamically reacting to forces or objects.",
+        "Combined procedural animations with traditional keyframed and motion-captured animations to create blended, realistic movements.",
+        "Combined procedural animations with traditional keyframed and motion-captured animations to create blended, realistic movements.",
+        "Integrated procedural rigs with physics simulationsfor enhanced interactions, such as characters dynamically reacting to forces or objects.",
+        "Integrated procedural rigs with physics simulationsfor enhanced interactions, such as characters dynamically reacting to forces or objects."
+      ],
+      "keyContributions": [
+        "Implemented advanced terrain adaptation, enabling accurate foot placement and rotationon uneven and complex surfaces.",
+        "Implemented advanced terrain adaptation, enabling accurate foot placement and rotationon uneven and complex surfaces.",
+        "Designed and implemented parameters for easy customization of animation components, including stride length, step height, pelvis tilt, and more.",
+        "Designed and implemented parameters for easy customization of animation components, including stride length, step height, pelvis tilt, and more.",
+        "Developed hand detection logicfor interactive gameplay features, allowing characters to respond naturally to objects in their environment.",
+        "Developed hand detection logicfor interactive gameplay features, allowing characters to respond naturally to objects in their environment."
+      ],
+      "outcomesMetrics": [
+        "The study highlights next-generation animation techniquesthat can be seamlessly integrated into modern game development pipelines.",
+        "The study highlights next-generation animation techniquesthat can be seamlessly integrated into modern game development pipelines.",
+        "Demonstrated a clear path for overcoming the limitations of static animations, paving the way for dynamic, environment-aware character systems.",
+        "Demonstrated a clear path for overcoming the limitations of static animations, paving the way for dynamic, environment-aware character systems.",
+        "Positioned as a technical explorationwith potential applications in AAA game projects, virtual production, and interactive simulations.",
+        "Positioned as a technical explorationwith potential applications in AAA game projects, virtual production, and interactive simulations."
+      ],
+      "mediaAssets": [
+        "ProceduralAnimations/PA1.mp4",
+        "ProceduralAnimations/PA2.mp4",
+        "ProceduralAnimations/PA3.mp4",
+        "ProceduralAnimations/PA4.mp4",
+        "ProceduralAnimations/PA5.png"
+      ],
+      "links": [],
+      "tags": [
+        "Unreal Engine 5"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 9,
+        "matchedAssetFolder": "ProceduralAnimations"
+      }
+    },
+    {
+      "slug": "procedural-character-interactions",
+      "title": "Procedural Character Interactions",
+      "category": "Interactive Systems / Unreal",
+      "featuredPriority": 7,
+      "oneLineHook": "In Subliminal, I used Unreal Engine 5 and Control Rig to create procedural animations that layer natural environmental interactions over hand-made animations.",
+      "role": "Lead Developer | Procedural Animation Specialist",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "Unreal Engine 5",
+        "Control Rig",
+        "IK Controls",
+        "Custom Scripting"
+      ],
+      "problem": "For the Subliminalproject, I developed procedural character interactionsthat allowed characters to respond naturally to their environment. By layering procedural animationson top of hand-made animations, the characters dynamically reacted to environmental factors like walls and terrain, enhancing realism in the game.",
+      "approach": [],
+      "architectureHighlights": [
+        "Procedural Animation & Control Rig:Used Unreal Engine 5s Control Rigto create complex procedural animation systems, layering them seamlessly over pre-made animations.Developed custom IK (Inverse Kinematics) controlsto allow for more precise and responsive limb movement based on environmental interactions.",
+        "Used Unreal Engine 5s Control Rigto create complex procedural animation systems, layering them seamlessly over pre-made animations.",
+        "Used Unreal Engine 5s Control Rigto create complex procedural animation systems, layering them seamlessly over pre-made animations.",
+        "Programming & Scripting:Wrote custom scriptsto integrate the procedural animation system with the games physics, ensuring smooth and natural transitions between different animation states based on real-time feedback from the environment.",
+        "Wrote custom scriptsto integrate the procedural animation system with the games physics, ensuring smooth and natural transitions between different animation states based on real-time feedback from the environment.",
+        "Wrote custom scriptsto integrate the procedural animation system with the games physics, ensuring smooth and natural transitions between different animation states based on real-time feedback from the environment."
+      ],
+      "systemDesignHighlights": [
+        "Procedural Animation & Control Rig:Used Unreal Engine 5s Control Rigto create complex procedural animation systems, layering them seamlessly over pre-made animations.Developed custom IK (Inverse Kinematics) controlsto allow for more precise and responsive limb movement based on environmental interactions.",
+        "Used Unreal Engine 5s Control Rigto create complex procedural animation systems, layering them seamlessly over pre-made animations.",
+        "Used Unreal Engine 5s Control Rigto create complex procedural animation systems, layering them seamlessly over pre-made animations.",
+        "Programming & Scripting:Wrote custom scriptsto integrate the procedural animation system with the games physics, ensuring smooth and natural transitions between different animation states based on real-time feedback from the environment.",
+        "Wrote custom scriptsto integrate the procedural animation system with the games physics, ensuring smooth and natural transitions between different animation states based on real-time feedback from the environment.",
+        "Wrote custom scriptsto integrate the procedural animation system with the games physics, ensuring smooth and natural transitions between different animation states based on real-time feedback from the environment."
+      ],
+      "keyContributions": [
+        "Developed custom IK (Inverse Kinematics) controlsto allow for more precise and responsive limb movement based on environmental interactions.",
+        "Developed custom IK (Inverse Kinematics) controlsto allow for more precise and responsive limb movement based on environmental interactions.",
+        "Environmental Interactions:Integrated wall and ground detectionto ensure natural reactionsbetween the character and the environment, such as adjusting foot placement or hand movements when interacting with surfaces.Designed character animations that adapt to obstacles, ensuring the character reacts realistically when interacting with walls, uneven ground, or other environmental features.",
+        "Integrated wall and ground detectionto ensure natural reactionsbetween the character and the environment, such as adjusting foot placement or hand movements when interacting with surfaces.",
+        "Integrated wall and ground detectionto ensure natural reactionsbetween the character and the environment, such as adjusting foot placement or hand movements when interacting with surfaces.",
+        "Designed character animations that adapt to obstacles, ensuring the character reacts realistically when interacting with walls, uneven ground, or other environmental features.",
+        "Designed character animations that adapt to obstacles, ensuring the character reacts realistically when interacting with walls, uneven ground, or other environmental features."
+      ],
+      "outcomesMetrics": [],
+      "mediaAssets": [],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.subliminalgame.com/",
+          "type": "inline_url"
+        }
+      ],
+      "tags": [
+        "Unreal Engine 5",
+        "Control Rig",
+        "IK Controls",
+        "Custom Scripting"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 10,
+        "matchedAssetFolder": null
+      }
+    },
+    {
+      "slug": "design-previewer",
+      "title": "Design Previewer",
+      "category": "Interactive Systems / Unreal",
+      "featuredPriority": 10,
+      "oneLineHook": "Created an interactive Design Previewer in Unreal Engine 5 for Streamoid, allowing users to manipulate garment designs in real-time with customizable features.",
+      "role": "Freelance Developer",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "Unreal Engine 5",
+        "C++",
+        "Custom Widgets"
+      ],
+      "problem": null,
+      "approach": [],
+      "architectureHighlights": [],
+      "systemDesignHighlights": [],
+      "keyContributions": [],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "DesignPreviewer/DP1.mp4",
+        "DesignPreviewer/DP2.png",
+        "DesignPreviewer/DP3.png",
+        "DesignPreviewer/DP4.png",
+        "DesignPreviewer/DP5.png",
+        "DesignPreviewer/DP6.png",
+        "DesignPreviewer/DP7.png",
+        "DesignPreviewer/DP8.png"
+      ],
+      "links": [],
+      "tags": [
+        "Unreal Engine 5",
+        "C++",
+        "Custom Widgets"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 11,
+        "matchedAssetFolder": "DesignPreviewer"
+      }
+    },
+    {
+      "slug": "endless-runner",
+      "title": "Endless Runner",
+      "category": "Interactive Systems / Unity",
+      "featuredPriority": 13,
+      "oneLineHook": "A fully procedural endless runner in Unity, with all textures, animations, and gameplay elements generated dynamically using C# and Shader Graph.",
+      "role": "Developer | Technical Artist",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "Unity",
+        "C#",
+        "Shader Graph"
+      ],
+      "problem": null,
+      "approach": [],
+      "architectureHighlights": [],
+      "systemDesignHighlights": [],
+      "keyContributions": [],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "EndlessRunner/ER1.mp4",
+        "EndlessRunner/ER2.jpg",
+        "EndlessRunner/ER3.png",
+        "EndlessRunner/ER4.jpg"
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://youtu.be/vDg3BesL8pg?si=PFQ3KV8k17bukaZo",
+          "type": "inline_url"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "C#",
+        "Shader Graph"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 12,
+        "matchedAssetFolder": "EndlessRunner"
+      }
+    },
+    {
+      "slug": "third-person-shooter",
+      "title": "Third Person Shooter",
+      "category": "Interactive Systems / Unreal",
+      "featuredPriority": 12,
+      "oneLineHook": "This is a simple third person shooter game I made using Unreal Engine 5 and C++.",
+      "role": "Game Developer",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "Unreal Engine 5",
+        "C++"
+      ],
+      "problem": null,
+      "approach": [],
+      "architectureHighlights": [],
+      "systemDesignHighlights": [],
+      "keyContributions": [],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "ThirdPersonShooter/TPS1.mp4",
+        "ThirdPersonShooter/TPS10.png",
+        "ThirdPersonShooter/TPS11.png",
+        "ThirdPersonShooter/TPS12.png",
+        "ThirdPersonShooter/TPS13.png",
+        "ThirdPersonShooter/TPS14.png",
+        "ThirdPersonShooter/TPS15.png",
+        "ThirdPersonShooter/TPS16.png",
+        "ThirdPersonShooter/TPS17.png",
+        "ThirdPersonShooter/TPS18.png",
+        "ThirdPersonShooter/TPS19.png",
+        "ThirdPersonShooter/TPS2.mp4",
+        "ThirdPersonShooter/TPS20.png",
+        "ThirdPersonShooter/TPS21.png",
+        "ThirdPersonShooter/TPS22.png",
+        "ThirdPersonShooter/TPS23.png",
+        "ThirdPersonShooter/TPS24.png",
+        "ThirdPersonShooter/TPS25.png",
+        "ThirdPersonShooter/TPS26.png",
+        "ThirdPersonShooter/TPS27.png",
+        "ThirdPersonShooter/TPS28.png",
+        "ThirdPersonShooter/TPS29.png",
+        "ThirdPersonShooter/TPS3.mp4",
+        "ThirdPersonShooter/TPS4.png",
+        "ThirdPersonShooter/TPS5.png",
+        "ThirdPersonShooter/TPS6.png",
+        "ThirdPersonShooter/TPS7.png",
+        "ThirdPersonShooter/TPS8.png",
+        "ThirdPersonShooter/TPS9.png"
+      ],
+      "links": [],
+      "tags": [
+        "Unreal Engine 5",
+        "C++"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 13,
+        "matchedAssetFolder": "ThirdPersonShooter"
+      }
+    },
+    {
+      "slug": "automated-animation-pipeline",
+      "title": "Automated Animation Pipeline",
+      "category": "Interactive Systems / Unreal",
+      "featuredPriority": 5,
+      "oneLineHook": "In this project, I developed an AI-driven animation pipeline that automated facial motion capture, rendering, and video generation using Audio2Face, Unreal Engine, and Python.",
+      "role": "Pipeline Developer | Technical Artist | Team Lead",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "NVIDIA Omniverse Audio2Face",
+        "Unreal Engine",
+        "Python",
+        "FFmpeg",
+        "Metahuman Creator"
+      ],
+      "problem": "I collaborated with Constituents AIto develop an automated animation pipelinethat streamlined the generation of facial animations from voice input. The system integrated multiple cutting-edge tools, including NVIDIA Omniverse Audio2Face (A2F), Unreal Engine Editor Scripting, and a custom web interface, to create a seamless animation workflow.",
+      "approach": [
+        "This pipeline automates the traditionally labor-intensive process of lip-sync animation and facial motion capture, significantly reducing time and manual effort while maintaining high-quality results."
+      ],
+      "architectureHighlights": [
+        "Pipeline Integration & Development:Designed and implemented the module that receives audio inputfrom the web interface and processes it through the pipeline.Developed a Python-based automation systemlinking NVIDIA Omniverse Audio2Face with Unreal Engine.Ensured headless executionof Unreal Engine and A2F for optimal performance and scalability.",
+        "Designed and implemented the module that receives audio inputfrom the web interface and processes it through the pipeline.",
+        "Designed and implemented the module that receives audio inputfrom the web interface and processes it through the pipeline.",
+        "Developed a Python-based automation systemlinking NVIDIA Omniverse Audio2Face with Unreal Engine.",
+        "Developed a Python-based automation systemlinking NVIDIA Omniverse Audio2Face with Unreal Engine.",
+        "Rendering & Processing:Automated movie renderingin Unreal Engine using the Movie Render Pipeline, outputting image sequences.Implemented FFmpeg automation with Pythonto convert rendered image sequences into a finalized video format.Developed a system to send the final video output back to the web interface, completing the pipeline.",
+        "Automated movie renderingin Unreal Engine using the Movie Render Pipeline, outputting image sequences.",
+        "Automated movie renderingin Unreal Engine using the Movie Render Pipeline, outputting image sequences.",
+        "Developed a system to send the final video output back to the web interface, completing the pipeline.",
+        "Developed a system to send the final video output back to the web interface, completing the pipeline."
+      ],
+      "systemDesignHighlights": [
+        "Pipeline Integration & Development:Designed and implemented the module that receives audio inputfrom the web interface and processes it through the pipeline.Developed a Python-based automation systemlinking NVIDIA Omniverse Audio2Face with Unreal Engine.Ensured headless executionof Unreal Engine and A2F for optimal performance and scalability.",
+        "Designed and implemented the module that receives audio inputfrom the web interface and processes it through the pipeline.",
+        "Designed and implemented the module that receives audio inputfrom the web interface and processes it through the pipeline.",
+        "Developed a Python-based automation systemlinking NVIDIA Omniverse Audio2Face with Unreal Engine.",
+        "Developed a Python-based automation systemlinking NVIDIA Omniverse Audio2Face with Unreal Engine.",
+        "Animation Automation:Configured Audio2Faceto automatically generate keyframe animations based on voice input.Automated the import of facial animationsinto a pre-setup Unreal Engine scene featuring a Metahuman modeland a body animation generated from a video-to-animation tool.Developed a robust workflow that synchronizes facial animations with pre-existing body motion, creating a fully animated character.",
+        "Automated the import of facial animationsinto a pre-setup Unreal Engine scene featuring a Metahuman modeland a body animation generated from a video-to-animation tool.",
+        "Automated the import of facial animationsinto a pre-setup Unreal Engine scene featuring a Metahuman modeland a body animation generated from a video-to-animation tool.",
+        "Rendering & Processing:Automated movie renderingin Unreal Engine using the Movie Render Pipeline, outputting image sequences.Implemented FFmpeg automation with Pythonto convert rendered image sequences into a finalized video format.Developed a system to send the final video output back to the web interface, completing the pipeline.",
+        "Automated movie renderingin Unreal Engine using the Movie Render Pipeline, outputting image sequences.",
+        "Automated movie renderingin Unreal Engine using the Movie Render Pipeline, outputting image sequences.",
+        "Developed a system to send the final video output back to the web interface, completing the pipeline.",
+        "Developed a system to send the final video output back to the web interface, completing the pipeline."
+      ],
+      "keyContributions": [
+        "Ensured headless executionof Unreal Engine and A2F for optimal performance and scalability.",
+        "Ensured headless executionof Unreal Engine and A2F for optimal performance and scalability.",
+        "Configured Audio2Faceto automatically generate keyframe animations based on voice input.",
+        "Configured Audio2Faceto automatically generate keyframe animations based on voice input.",
+        "Developed a robust workflow that synchronizes facial animations with pre-existing body motion, creating a fully animated character.",
+        "Developed a robust workflow that synchronizes facial animations with pre-existing body motion, creating a fully animated character.",
+        "Implemented FFmpeg automation with Pythonto convert rendered image sequences into a finalized video format.",
+        "Implemented FFmpeg automation with Pythonto convert rendered image sequences into a finalized video format."
+      ],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "AutomatedAnimationPipeline/AAP1.mkv",
+        "AutomatedAnimationPipeline/AAP2.mp4",
+        "AutomatedAnimationPipeline/AAP3.mp4",
+        "AutomatedAnimationPipeline/AAP4.png"
+      ],
+      "links": [],
+      "tags": [
+        "NVIDIA Omniverse Audio2Face",
+        "Unreal Engine",
+        "Python",
+        "FFmpeg"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 14,
+        "matchedAssetFolder": "AutomatedAnimationPipeline"
+      }
+    },
+    {
+      "slug": "word-zenith",
+      "title": "Word Zenith",
+      "category": "Interactive Systems / Unity",
+      "featuredPriority": null,
+      "oneLineHook": "Word Zenith is a relaxing word-puzzle game that blends crossword depth with word search simplicity.",
+      "role": "Unity Developer",
+      "timeframe": null,
+      "platforms": [
+        "Android",
+        "IOS"
+      ],
+      "tools": [
+        "Unity",
+        "Android Studio",
+        "X Code",
+        "Mongo DB",
+        "Firebase"
+      ],
+      "problem": "Word Zenithis a word-puzzle game blending crossword depth with word search flow. Built for a broad casual audience, it features thousands of handcrafted levels, daily challenges, and a calming, zen-inspired presentation. Available on the Google Play Store and Apple App store, it balances accessibility, challenge, and clean monetization.",
+      "approach": [],
+      "architectureHighlights": [
+        "Data & Strategy:Introduced an A/B testing architectureand drove data-informed decisions, improving retention by ~12%.Ran experiments on ad pacing, paywall copy, and bundle pricing to optimise ARPDAUwithout hurting engagement.",
+        "Introduced an A/B testing architectureand drove data-informed decisions, improving retention by ~12%.",
+        "Introduced an A/B testing architectureand drove data-informed decisions, improving retention by ~12%."
+      ],
+      "systemDesignHighlights": [
+        "Data & Strategy:Introduced an A/B testing architectureand drove data-informed decisions, improving retention by ~12%.Ran experiments on ad pacing, paywall copy, and bundle pricing to optimise ARPDAUwithout hurting engagement.",
+        "Introduced an A/B testing architectureand drove data-informed decisions, improving retention by ~12%.",
+        "Introduced an A/B testing architectureand drove data-informed decisions, improving retention by ~12%.",
+        "Optimization Expertise:Reduced APK size by ~20 MBand load times by ~30%through asset, build, and initialization optimizations.",
+        "Reduced APK size by ~20 MBand load times by ~30%through asset, build, and initialization optimizations.",
+        "Reduced APK size by ~20 MBand load times by ~30%through asset, build, and initialization optimizations."
+      ],
+      "keyContributions": [
+        "Development:Directed development of plug-and-play modules(quests, notifications, analytics, monetization) reused across multiple projects.Shipped multiple features to live apps while maintaining stable release cycles.",
+        "Directed development of plug-and-play modules(quests, notifications, analytics, monetization) reused across multiple projects.",
+        "Directed development of plug-and-play modules(quests, notifications, analytics, monetization) reused across multiple projects.",
+        "Shipped multiple features to live apps while maintaining stable release cycles.",
+        "Shipped multiple features to live apps while maintaining stable release cycles.",
+        "Monetization & Live Ops:Implemented ad-based monetization(rewarded hints, paced interstitials, optional banners) with mediation tuning (waterfalls/bidding, eCPM floors, frequency capping).Built IAP flows(e.g., remove-ads, coin/hint packs, starter bundles), including receipt handling, pricing tiers, and fallback states.Integrated consent/CMPand privacy-safe toggles; exposed placements and paywalls to Remote Configfor rapid iteration without new builds.",
+        "Implemented ad-based monetization(rewarded hints, paced interstitials, optional banners) with mediation tuning (waterfalls/bidding, eCPM floors, frequency capping).",
+        "Implemented ad-based monetization(rewarded hints, paced interstitials, optional banners) with mediation tuning (waterfalls/bidding, eCPM floors, frequency capping).",
+        "Built IAP flows(e.g., remove-ads, coin/hint packs, starter bundles), including receipt handling, pricing tiers, and fallback states.",
+        "Built IAP flows(e.g., remove-ads, coin/hint packs, starter bundles), including receipt handling, pricing tiers, and fallback states.",
+        "Integrated consent/CMPand privacy-safe toggles; exposed placements and paywalls to Remote Configfor rapid iteration without new builds.",
+        "Integrated consent/CMPand privacy-safe toggles; exposed placements and paywalls to Remote Configfor rapid iteration without new builds.",
+        "Ran experiments on ad pacing, paywall copy, and bundle pricing to optimise ARPDAUwithout hurting engagement.",
+        "Ran experiments on ad pacing, paywall copy, and bundle pricing to optimise ARPDAUwithout hurting engagement.",
+        "Team Collaboration:Conducted code reviews and mentoring, improving team delivery efficiency by ~20%.",
+        "Conducted code reviews and mentoring, improving team delivery efficiency by ~20%.",
+        "Conducted code reviews and mentoring, improving team delivery efficiency by ~20%."
+      ],
+      "outcomesMetrics": [],
+      "mediaAssets": [
+        "WordZenith/WZ1.webp",
+        "WordZenith/WZ2.webp",
+        "WordZenith/WZ3.webp",
+        "WordZenith/WZ4.webp",
+        "WordZenith/WZ6.webp",
+        "WordZenith/WZ7.webp",
+        "WordZenith/WZSS1.png"
+      ],
+      "links": [
+        {
+          "title": "Word Zenith-Relax Puzzle Game - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.wordgame.wordzenith",
+          "type": "link_preview"
+        },
+        {
+          "title": "?Word Zenith- Wisdom Book Game",
+          "url": "https://apps.apple.com/in/app/word-zenith-wisdom-book-game/id6746398102",
+          "type": "link_preview"
+        }
+      ],
+      "tags": [
+        "Android",
+        "IOS",
+        "Unity",
+        "Android Studio",
+        "X Code",
+        "Mongo DB"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 15,
+        "matchedAssetFolder": "WordZenith"
+      }
+    },
+    {
+      "slug": "spatial-audio-experience-app",
+      "title": "Spatial Audio Experience App",
+      "category": "Interactive Systems / Unity",
+      "featuredPriority": 6,
+      "oneLineHook": "I built a spatial audio AR app for Aural Mayhem, integrating FMOD, Wwise, AWS, and Addressables in Unity",
+      "role": "Lead Developer | AR & Audio Integration Specialist",
+      "timeframe": null,
+      "platforms": [],
+      "tools": [
+        "Unity",
+        "FMOD",
+        "Wwise",
+        "AR Technology (Google ARCore XR Plugin)",
+        "Addressables",
+        "AWS",
+        "Perforce"
+      ],
+      "problem": "I developed a cutting-edge spatial audio experience appfor Aural Mayhem, a sound engineering studio specializing in immersive audio technology. The app merges augmented reality (AR)with advanced spatial audio processing, creating a dynamic and interactive soundscape for users.",
+      "approach": [],
+      "architectureHighlights": [
+        "Custom Editor Tools:Designed Unity Editor extensionsfor sound designers to easily fine-tune spatial audio parameters.Built a modular workflow toolset, improving efficiency and iteration speed for designers and developers.",
+        "Built a modular workflow toolset, improving efficiency and iteration speed for designers and developers.",
+        "Built a modular workflow toolset, improving efficiency and iteration speed for designers and developers.",
+        "Optimization & Scalability:Implemented Addressablesfor efficient asset streaming and memory management.Managed deployment and downloading of Addressables assets to and from AWS, ensuring a smooth content pipeline.Established a CDN on AWSfor efficient delivery of content, ensuring fast, scalable access to audio assets globally.",
+        "Implemented Addressablesfor efficient asset streaming and memory management.",
+        "Implemented Addressablesfor efficient asset streaming and memory management.",
+        "Managed deployment and downloading of Addressables assets to and from AWS, ensuring a smooth content pipeline.",
+        "Managed deployment and downloading of Addressables assets to and from AWS, ensuring a smooth content pipeline.",
+        "App Robustness & Performance:Developed a high-performance application architecturecapable of handling complex 3D spatial audio experiences without performance bottlenecks.Ensured smooth cross-platform functionality, optimizing for both mobile and AR devices.",
+        "Developed a high-performance application architecturecapable of handling complex 3D spatial audio experiences without performance bottlenecks.",
+        "Developed a high-performance application architecturecapable of handling complex 3D spatial audio experiences without performance bottlenecks."
+      ],
+      "systemDesignHighlights": [
+        "Spatial Audio & AR Integration:Integrated FMOD and Wwiseto enable precise spatial audio rendering.Utilized Google ARCore XR Pluginto implement augmented reality features, allowing the audio experience to adapt to the users environment in real time.",
+        "Custom Editor Tools:Designed Unity Editor extensionsfor sound designers to easily fine-tune spatial audio parameters.Built a modular workflow toolset, improving efficiency and iteration speed for designers and developers.",
+        "Built a modular workflow toolset, improving efficiency and iteration speed for designers and developers.",
+        "Built a modular workflow toolset, improving efficiency and iteration speed for designers and developers.",
+        "Optimization & Scalability:Implemented Addressablesfor efficient asset streaming and memory management.Managed deployment and downloading of Addressables assets to and from AWS, ensuring a smooth content pipeline.Established a CDN on AWSfor efficient delivery of content, ensuring fast, scalable access to audio assets globally.",
+        "Implemented Addressablesfor efficient asset streaming and memory management.",
+        "Implemented Addressablesfor efficient asset streaming and memory management.",
+        "Managed deployment and downloading of Addressables assets to and from AWS, ensuring a smooth content pipeline.",
+        "Managed deployment and downloading of Addressables assets to and from AWS, ensuring a smooth content pipeline.",
+        "App Robustness & Performance:Developed a high-performance application architecturecapable of handling complex 3D spatial audio experiences without performance bottlenecks.Ensured smooth cross-platform functionality, optimizing for both mobile and AR devices.",
+        "Developed a high-performance application architecturecapable of handling complex 3D spatial audio experiences without performance bottlenecks.",
+        "Developed a high-performance application architecturecapable of handling complex 3D spatial audio experiences without performance bottlenecks.",
+        "Ensured smooth cross-platform functionality, optimizing for both mobile and AR devices.",
+        "Ensured smooth cross-platform functionality, optimizing for both mobile and AR devices."
+      ],
+      "keyContributions": [
+        "Integrated FMOD and Wwiseto enable precise spatial audio rendering.",
+        "Integrated FMOD and Wwiseto enable precise spatial audio rendering.",
+        "Utilized Google ARCore XR Pluginto implement augmented reality features, allowing the audio experience to adapt to the users environment in real time.",
+        "Utilized Google ARCore XR Pluginto implement augmented reality features, allowing the audio experience to adapt to the users environment in real time.",
+        "Designed Unity Editor extensionsfor sound designers to easily fine-tune spatial audio parameters.",
+        "Designed Unity Editor extensionsfor sound designers to easily fine-tune spatial audio parameters.",
+        "Established a CDN on AWSfor efficient delivery of content, ensuring fast, scalable access to audio assets globally.",
+        "Established a CDN on AWSfor efficient delivery of content, ensuring fast, scalable access to audio assets globally.",
+        "Version Control & Deployment:Managed Perforce version control, ensuring seamless team collaboration and structured project management.Deployed the app on AWS, handling cloud-based services for scalability and performance.",
+        "Managed Perforce version control, ensuring seamless team collaboration and structured project management.",
+        "Managed Perforce version control, ensuring seamless team collaboration and structured project management.",
+        "Deployed the app on AWS, handling cloud-based services for scalability and performance.",
+        "Deployed the app on AWS, handling cloud-based services for scalability and performance."
+      ],
+      "outcomesMetrics": [],
+      "mediaAssets": [],
+      "links": [],
+      "tags": [
+        "Unity",
+        "FMOD",
+        "Wwise",
+        "AR Technology (Google ARCore XR Plugin)"
+      ],
+      "sourceTrace": {
+        "sourceFile": "Projects.csv",
+        "sourceRowIndex": 16,
+        "matchedAssetFolder": null
+      }
+    }
+  ],
+  "manualProjects": [
+    {
+      "slug": "orchestrator",
+      "title": "Orchestrator",
+      "category": "AI Systems Orchestration / Developer Tooling",
+      "featuredPriority": 0,
+      "oneLineHook": "A Node/Express orchestration system for AI-assisted coding workflows across local repositories with REST and MCP interfaces.",
+      "role": "Builder / Systems Designer",
+      "timeframe": null,
+      "platforms": [
+        "Web",
+        "Local Developer Environment"
+      ],
+      "tools": [
+        "Node.js",
+        "Express",
+        "Git",
+        "MCP",
+        "OAuth/JWT"
+      ],
+      "problem": "Needed a reliable way to orchestrate AI-assisted execution on local repositories with task state, streaming output, and safe git-isolated workspaces.",
+      "approach": [
+        "Designed a Node/Express application with persistent task/run/log/message state and streamed execution output.",
+        "Implemented per-task git worktrees, session resume/discovery, and both REST and MCP APIs for integrations.",
+        "Added planning mode, retry/fallback behavior, and authentication/scope controls for safe operation."
+      ],
+      "architectureHighlights": [
+        "REST API and MCP API surface for orchestration access.",
+        "Persistent runtime data model for tasks, runs, logs, messages, and metadata.",
+        "Per-task detached git worktrees and guarded deletion behavior."
+      ],
+      "systemDesignHighlights": [
+        "Session discovery/resume flow for follow-up runs.",
+        "Plan mode with read-only planning, persisted thread state, and plan deltas.",
+        "Retry/fallback logic and interrupted-state recovery on restart.",
+        "Auth design with token mode, OAuth/JWT + JWKS validation, and scope enforcement."
+      ],
+      "keyContributions": [
+        "Built the system from the ground up.",
+        "Designed and implemented orchestration flows, API surfaces, and safety constraints.",
+        "Defined reliability and observability mechanisms including bounded log tailing."
+      ],
+      "outcomesMetrics": [],
+      "mediaAssets": [],
+      "links": [],
+      "tags": [
+        "AI orchestration",
+        "Developer tooling",
+        "MCP",
+        "Node.js",
+        "Systems design"
+      ],
+      "sourceTrace": {
+        "sourceFile": "manual/orchestrator-context",
+        "note": "Project not present in Projects.csv; populated from current conversation and Orchestrator documentation context."
+      },
+      "missingInfo": {
+        "timeframe": "TODO",
+        "publicLinks": "TODO",
+        "screenshotsOrMedia": "TODO",
+        "metrics": "TODO"
+      }
+    }
+  ]
+}

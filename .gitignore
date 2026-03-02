@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output (if any)
+dist/
+build/
+.out/
+.next/
+
+# tooling
+.wrangler/
+.DS_Store
+
+# local / transient
+personalwebsite_chat_context.txt
+*.log
+
+# environment
+.env
+.env.*
