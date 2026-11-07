@@ -62,3 +62,29 @@ jobs:
               head -c 180 /tmp/app-ads-check-body; echo
             fi
           done
+
+      - name: Diagnose apex DNS ownership and existing homepage
+        if: always()
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          echo "=== Authoritative public DNS ==="
+          for type in NS A AAAA CNAME; do
+            echo "--- $type ---"
+            dig +short touchstonegames.in "$type" || true
+          done
+          echo "--- WWW CNAME ---"
+          dig +short www.touchstonegames.in CNAME || true
+          echo "=== Domain homepage responses ==="
+          for url in https://touchstonegames.in/ https://www.touchstonegames.in/; do
+            echo "--- $url ---"
+            curl -sSL --max-time 20 -D /tmp/domain-headers -o /tmp/domain-body \
+              -w 'HTTP_STATUS=%{http_code} FINAL_URL=%{url_effective}\\n' "$url" || true
+            grep -i -E '^(HTTP/|server:|cf-ray:|location:|content-type:)' /tmp/domain-headers || true
+            grep -i -m 1 -o '<title>[^<]*</title>' /tmp/domain-body || true
+          done
+          echo "=== Cloudflare zone API ==="
+          curl -sS --max-time 20 \
+            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/zones?name=touchstonegames.in" \
+            | jq '{success, errors, zones: [.result[]? | {id, name, status, name_servers}]}'
