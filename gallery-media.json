@@ -1,0 +1,79 @@
+{
+  "note": "Only nonempty overrides are used. All other projects seed placeholder galleries from projects.normalized.json (156 referenced images/videos). No media-count cap. Never use obsolete Wix captures for Red Hot Ball.",
+  "projects": {
+    "red-hot-ball": [
+      {
+        "type": "image",
+        "src": null,
+        "label": "Current RHB key art",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 01",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 02",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 03",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 04",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 05",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 06",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 07",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 08",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 09",
+        "source": null
+      },
+      {
+        "type": "image",
+        "src": null,
+        "label": "Fresh gameplay screenshot 10",
+        "source": null
+      },
+      {
+        "type": "video",
+        "src": null,
+        "label": "Fresh gameplay video",
+        "source": null
+      }
+    ]
+  }
+}
