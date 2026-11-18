@@ -1,0 +1,11 @@
+{
+  "_note": "Set an asset path once the local media has been reviewed and placed in this repository. Null means the designed illustration remains visible. Keep the Red Hot Ball assets current, not old Wix screenshots.",
+  "rhb-cover": null,
+  "rhb-shot-1": null,
+  "rhb-shot-2": null,
+  "rhb-shot-3": null,
+  "kai-cover": null,
+  "rokeya-cover": null,
+  "word-zenith-cover": null,
+  "imho-cover": null
+}
