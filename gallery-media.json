@@ -1,6 +1,335 @@
 {
-  "note": "Only nonempty overrides are used. All other projects seed placeholder galleries from projects.normalized.json (156 referenced images/videos). No media-count cap. Never use obsolete Wix captures for Red Hot Ball.",
+  "note": "All reviewed authentic media; no gallery count cap. Old Red Hot Ball media excluded; current-build captures still required.",
   "projects": {
+    "kai-s-dream": [
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd1-11f48b84.webp",
+        "label": "Kai's Dream — screenshot 01",
+        "source": "KaisDream\\KD1.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd2-2f62410c.webp",
+        "label": "Kai's Dream — screenshot 02",
+        "source": "KaisDream\\KD2.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd3-ab776847.webp",
+        "label": "Kai's Dream — screenshot 03",
+        "source": "KaisDream\\KD3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd4-7ec98f27.webp",
+        "label": "Kai's Dream — screenshot 04",
+        "source": "KaisDream\\KD4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd5-f38aae08.webp",
+        "label": "Kai's Dream — screenshot 05",
+        "source": "KaisDream\\KD5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd6-dd479ed7.webp",
+        "label": "Kai's Dream — screenshot 06",
+        "source": "KaisDream\\KD6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd7-aae6bdd2.webp",
+        "label": "Kai's Dream — screenshot 07",
+        "source": "KaisDream\\KD7.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd8-89098841.webp",
+        "label": "Kai's Dream — screenshot 08",
+        "source": "KaisDream\\KD8.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/kai-s-dream/kd9-5a7b13f1.webp",
+        "label": "Kai's Dream — screenshot 09",
+        "source": "KaisDream\\KD9.png"
+      }
+    ],
+    "anant-ratri": [
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/ar1-2f52311c-part-01.mp4",
+        "poster": "./media/site/anant-ratri/ar1-2f52311c-part-01.webp",
+        "label": "Anant Ratri — technical demo 1 — part 1 of 4",
+        "source": "AnantRatri\\AR1.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/ar1-2f52311c-part-02.mp4",
+        "poster": "./media/site/anant-ratri/ar1-2f52311c-part-02.webp",
+        "label": "Anant Ratri — technical demo 1 — part 2 of 4",
+        "source": "AnantRatri\\AR1.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/ar1-2f52311c-part-03.mp4",
+        "poster": "./media/site/anant-ratri/ar1-2f52311c-part-03.webp",
+        "label": "Anant Ratri — technical demo 1 — part 3 of 4",
+        "source": "AnantRatri\\AR1.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/ar1-2f52311c-part-04.mp4",
+        "poster": "./media/site/anant-ratri/ar1-2f52311c-part-04.webp",
+        "label": "Anant Ratri — technical demo 1 — part 4 of 4",
+        "source": "AnantRatri\\AR1.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar10-e44198e5.webp",
+        "label": "Anant Ratri — screenshot 05",
+        "source": "AnantRatri\\AR10.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar11-f744659c.webp",
+        "label": "Anant Ratri — screenshot 06",
+        "source": "AnantRatri\\AR11.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar12-5ee0b7e9.webp",
+        "label": "Anant Ratri — screenshot 07",
+        "source": "AnantRatri\\AR12.png"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/ar13-c27fc8ec.mp4",
+        "poster": "./media/site/anant-ratri/ar13-c27fc8ec.webp",
+        "label": "Anant Ratri — Procedural rooms demo",
+        "source": "AnantRatri\\AR13.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar14-097a4f79.webp",
+        "label": "Anant Ratri — screenshot 09",
+        "source": "AnantRatri\\AR14.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar2-cb1ac7db.webp",
+        "label": "Anant Ratri — screenshot 10",
+        "source": "AnantRatri\\AR2.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar3-ace5cdf2.webp",
+        "label": "Anant Ratri — screenshot 11",
+        "source": "AnantRatri\\AR3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar5-b25fd11c.webp",
+        "label": "Anant Ratri — screenshot 12",
+        "source": "AnantRatri\\AR5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar6-366e010a.webp",
+        "label": "Anant Ratri — screenshot 13",
+        "source": "AnantRatri\\AR6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar7-aacc0dda.webp",
+        "label": "Anant Ratri — screenshot 14",
+        "source": "AnantRatri\\AR7.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar8-64240b99.webp",
+        "label": "Anant Ratri — screenshot 15",
+        "source": "AnantRatri\\AR8.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/ar9-5ba8e231.webp",
+        "label": "Anant Ratri — screenshot 16",
+        "source": "AnantRatri\\AR9.png"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-01.mp4",
+        "poster": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-01.webp",
+        "label": "Anant Ratri — Uncut gameplay — part 1 of 6",
+        "source": "EternalNightDemoGameplay_Uncut.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-02.mp4",
+        "poster": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-02.webp",
+        "label": "Anant Ratri — Uncut gameplay — part 2 of 6",
+        "source": "EternalNightDemoGameplay_Uncut.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-03.mp4",
+        "poster": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-03.webp",
+        "label": "Anant Ratri — Uncut gameplay — part 3 of 6",
+        "source": "EternalNightDemoGameplay_Uncut.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-04.mp4",
+        "poster": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-04.webp",
+        "label": "Anant Ratri — Uncut gameplay — part 4 of 6",
+        "source": "EternalNightDemoGameplay_Uncut.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-05.mp4",
+        "poster": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-05.webp",
+        "label": "Anant Ratri — Uncut gameplay — part 5 of 6",
+        "source": "EternalNightDemoGameplay_Uncut.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-06.mp4",
+        "poster": "./media/site/anant-ratri/eternalnightdemogameplay-uncut-9f4eabbf-part-06.webp",
+        "label": "Anant Ratri — Uncut gameplay — part 6 of 6",
+        "source": "EternalNightDemoGameplay_Uncut.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/eternalnightsshort-04485689.mp4",
+        "poster": "./media/site/anant-ratri/eternalnightsshort-04485689.webp",
+        "label": "Anant Ratri — Gameplay highlights",
+        "source": "EternalNightsShort.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/anant-ratri/inshot-20230126-194240537-1-b9fa60a9.mp4",
+        "poster": "./media/site/anant-ratri/inshot-20230126-194240537-1-b9fa60a9.webp",
+        "label": "Anant Ratri — Procedural environment preview",
+        "source": "InShot_20230126_194240537[1].mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-16-123335-51f748d1.webp",
+        "label": "Anant Ratri — screenshot 29",
+        "source": "Screenshot 2023-03-16 123335.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-16-123313-f5791024.webp",
+        "label": "Anant Ratri — screenshot 30",
+        "source": "Screenshot 2023-03-16 123313.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192749-7c14bded.webp",
+        "label": "Anant Ratri — screenshot 31",
+        "source": "Screenshot 2023-03-21 192749.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192806-ea8e7795.webp",
+        "label": "Anant Ratri — screenshot 32",
+        "source": "Screenshot 2023-03-21 192806.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-193018-7253278a.webp",
+        "label": "Anant Ratri — screenshot 33",
+        "source": "Screenshot 2023-03-21 193018.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-193539-5af44e43.webp",
+        "label": "Anant Ratri — screenshot 34",
+        "source": "Screenshot 2023-03-21 193539.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192742-4d242a72.webp",
+        "label": "Anant Ratri — screenshot 35",
+        "source": "Screenshot 2023-03-21 192742.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-193619-6d2ca928.webp",
+        "label": "Anant Ratri — screenshot 36",
+        "source": "Screenshot 2023-03-21 193619.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192632-fa594dea.webp",
+        "label": "Anant Ratri — screenshot 37",
+        "source": "Screenshot 2023-03-21 192632.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192336-d7405f29.webp",
+        "label": "Anant Ratri — screenshot 38",
+        "source": "Screenshot 2023-03-21 192336.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192914-ac7d7e1d.webp",
+        "label": "Anant Ratri — screenshot 39",
+        "source": "Screenshot 2023-03-21 192914.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192904-c6f8515a.webp",
+        "label": "Anant Ratri — screenshot 40",
+        "source": "Screenshot 2023-03-21 192904.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-15-034650-0d87cef0.webp",
+        "label": "Anant Ratri — screenshot 41",
+        "source": "Screenshot 2023-03-15 034650.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-193550-4577da26.webp",
+        "label": "Anant Ratri — screenshot 42",
+        "source": "Screenshot 2023-03-21 193550.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192617-8d535c20.webp",
+        "label": "Anant Ratri — screenshot 43",
+        "source": "Screenshot 2023-03-21 192617.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-194916-7057b6e8.webp",
+        "label": "Anant Ratri — screenshot 44",
+        "source": "Screenshot 2023-03-21 194916.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-21-192727-40e35718.webp",
+        "label": "Anant Ratri — screenshot 45",
+        "source": "Screenshot 2023-03-21 192727.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/screenshot-2023-03-16-123307-e4070485.webp",
+        "label": "Anant Ratri — screenshot 46",
+        "source": "Screenshot 2023-03-16 123307.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/anant-ratri/5a98df540ca5425e91f04de28d7a2e2f-9a30129b.webp",
+        "label": "Anant Ratri — screenshot 47",
+        "source": "_-5a98df540ca5425e91f04de28d7a2e2f.jpg"
+      }
+    ],
     "red-hot-ball": [
       {
         "type": "image",
@@ -74,6 +403,1002 @@
         "label": "Fresh gameplay video",
         "source": null
       }
-    ]
+    ],
+    "rokeya-s-garden": [
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg1-33b7b801.webp",
+        "label": "Rokeya's Garden — screenshot 01",
+        "source": "RokeyasGarden\\RG1.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg2-15757142.webp",
+        "label": "Rokeya's Garden — screenshot 02",
+        "source": "RokeyasGarden\\RG2.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg3-a69a6838.webp",
+        "label": "Rokeya's Garden — screenshot 03",
+        "source": "RokeyasGarden\\RG3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg4-e44122fb.webp",
+        "label": "Rokeya's Garden — screenshot 04",
+        "source": "RokeyasGarden\\RG4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg5-7b20521b.webp",
+        "label": "Rokeya's Garden — screenshot 05",
+        "source": "RokeyasGarden\\RG5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg6-120537a0.webp",
+        "label": "Rokeya's Garden — screenshot 06",
+        "source": "RokeyasGarden\\RG6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg7-8279af4c.webp",
+        "label": "Rokeya's Garden — screenshot 07",
+        "source": "RokeyasGarden\\RG7.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg8-419343f1.webp",
+        "label": "Rokeya's Garden — screenshot 08",
+        "source": "RokeyasGarden\\RG8.jpg"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rg9-1033887a.webp",
+        "label": "Rokeya's Garden — screenshot 09",
+        "source": "RokeyasGarden\\RG9.png"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/rokeya-s-garden/rokeyagarden-latest-7dd30cec-part-01.mp4",
+        "poster": "./media/site/rokeya-s-garden/rokeyagarden-latest-7dd30cec-part-01.webp",
+        "label": "Rokeya's Garden — Garden walkthrough — part 1 of 2",
+        "source": "RokeyaGarden_latest.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/rokeya-s-garden/rokeyagarden-latest-7dd30cec-part-02.mp4",
+        "poster": "./media/site/rokeya-s-garden/rokeyagarden-latest-7dd30cec-part-02.webp",
+        "label": "Rokeya's Garden — Garden walkthrough — part 2 of 2",
+        "source": "RokeyaGarden_latest.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/rokeyagarden-887efcff.webp",
+        "label": "Rokeya's Garden — screenshot 12",
+        "source": "RokeyaGarden.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/screenshot-2025-01-28-125648-3b687d20.webp",
+        "label": "Rokeya's Garden — screenshot 13",
+        "source": "Screenshot 2025-01-28 125648.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/rokeya-s-garden/screenshot-20250128-163832-google-play-store-3814dec8.webp",
+        "label": "Rokeya's Garden — screenshot 14",
+        "source": "Screenshot_20250128_163832_Google Play Store.jpg"
+      }
+    ],
+    "gone-away": [
+      {
+        "type": "video",
+        "src": "./media/site/gone-away/ga1-d0635c81.mp4",
+        "poster": "./media/site/gone-away/ga1-d0635c81.webp",
+        "label": "Gone Away — Adventure gameplay highlights",
+        "source": "GoneAway\\GA1.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga10-998d7168.webp",
+        "label": "Gone Away — screenshot 02",
+        "source": "GoneAway\\GA10.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga11-0f9733f9.webp",
+        "label": "Gone Away — screenshot 03",
+        "source": "GoneAway\\GA11.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga12-944cfe16.webp",
+        "label": "Gone Away — screenshot 04",
+        "source": "GoneAway\\GA12.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga13-e3b108c2.webp",
+        "label": "Gone Away — screenshot 05",
+        "source": "GoneAway\\GA13.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga14-c5463f7d.webp",
+        "label": "Gone Away — screenshot 06",
+        "source": "GoneAway\\GA14.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga15-2cee2b97.webp",
+        "label": "Gone Away — screenshot 07",
+        "source": "GoneAway\\GA15.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga16-4d5aad51.webp",
+        "label": "Gone Away — screenshot 08",
+        "source": "GoneAway\\GA16.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga17-1f36fa10.webp",
+        "label": "Gone Away — screenshot 09",
+        "source": "GoneAway\\GA17.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga18-a9dba72d.webp",
+        "label": "Gone Away — screenshot 10",
+        "source": "GoneAway\\GA18.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga19-3f2aba1c.webp",
+        "label": "Gone Away — screenshot 11",
+        "source": "GoneAway\\GA19.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga2-4c819d9b.webp",
+        "label": "Gone Away — screenshot 12",
+        "source": "GoneAway\\GA2.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga20-5e157fe1.webp",
+        "label": "Gone Away — screenshot 13",
+        "source": "GoneAway\\GA20.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga21-f966bc27.webp",
+        "label": "Gone Away — screenshot 14",
+        "source": "GoneAway\\GA21.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga22-78c33e27.webp",
+        "label": "Gone Away — screenshot 15",
+        "source": "GoneAway\\GA22.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga23-e6fc0721.webp",
+        "label": "Gone Away — screenshot 16",
+        "source": "GoneAway\\GA23.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga24-d12127a1.webp",
+        "label": "Gone Away — screenshot 17",
+        "source": "GoneAway\\GA24.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga25-afd1c1d6.webp",
+        "label": "Gone Away — screenshot 18",
+        "source": "GoneAway\\GA25.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga26-6c097aee.webp",
+        "label": "Gone Away — screenshot 19",
+        "source": "GoneAway\\GA26.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga27-f1480259.webp",
+        "label": "Gone Away — screenshot 20",
+        "source": "GoneAway\\GA27.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga28-286ef1c9.webp",
+        "label": "Gone Away — screenshot 21",
+        "source": "GoneAway\\GA28.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga29-e0d9d292.webp",
+        "label": "Gone Away — screenshot 22",
+        "source": "GoneAway\\GA29.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga3-1b7c32c9.webp",
+        "label": "Gone Away — screenshot 23",
+        "source": "GoneAway\\GA3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga30-8d964dd8.webp",
+        "label": "Gone Away — screenshot 24",
+        "source": "GoneAway\\GA30.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga31-341e7bfc.webp",
+        "label": "Gone Away — screenshot 25",
+        "source": "GoneAway\\GA31.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga32-0dec5567.webp",
+        "label": "Gone Away — screenshot 26",
+        "source": "GoneAway\\GA32.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga33-525bc91d.webp",
+        "label": "Gone Away — screenshot 27",
+        "source": "GoneAway\\GA33.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga34-eea7304d.webp",
+        "label": "Gone Away — screenshot 28",
+        "source": "GoneAway\\GA34.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga4-576062c1.webp",
+        "label": "Gone Away — screenshot 29",
+        "source": "GoneAway\\GA4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga5-0d51f19e.webp",
+        "label": "Gone Away — screenshot 30",
+        "source": "GoneAway\\GA5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga6-38238b13.webp",
+        "label": "Gone Away — screenshot 31",
+        "source": "GoneAway\\GA6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga7-2a41e151.webp",
+        "label": "Gone Away — screenshot 32",
+        "source": "GoneAway\\GA7.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga8-e51ac941.webp",
+        "label": "Gone Away — screenshot 33",
+        "source": "GoneAway\\GA8.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/gone-away/ga9-eb35a91f.webp",
+        "label": "Gone Away — screenshot 34",
+        "source": "GoneAway\\GA9.png"
+      }
+    ],
+    "procedural-endless-terrain": [
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/pet1-929dbef4.webp",
+        "label": "Procedural Endless Terrain — screenshot 01",
+        "source": "ProceduralEndlessTerrain\\PET1.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/pet2-214650ab.webp",
+        "label": "Procedural Endless Terrain — screenshot 02",
+        "source": "ProceduralEndlessTerrain\\PET2.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/pet3-cfaf7db2.webp",
+        "label": "Procedural Endless Terrain — screenshot 03",
+        "source": "ProceduralEndlessTerrain\\PET3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/pet4-16b4c16d.webp",
+        "label": "Procedural Endless Terrain — screenshot 04",
+        "source": "ProceduralEndlessTerrain\\PET4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/pet5-9f27b3e0.webp",
+        "label": "Procedural Endless Terrain — screenshot 05",
+        "source": "ProceduralEndlessTerrain\\PET5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/pet6-0f90a235.webp",
+        "label": "Procedural Endless Terrain — screenshot 06",
+        "source": "ProceduralEndlessTerrain\\PET6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/pet7-4df4c112.webp",
+        "label": "Procedural Endless Terrain — screenshot 07",
+        "source": "ProceduralEndlessTerrain\\PET7.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/screenshot-20230116-192248-d7e0858b.webp",
+        "label": "Procedural Endless Terrain — screenshot 08",
+        "source": "Screenshot_20230116_192248.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/screenshot-20230116-192248-edited-f0ec727f.webp",
+        "label": "Procedural Endless Terrain — screenshot 09",
+        "source": "Screenshot_20230116_192248_edited.jpg"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-endless-terrain/ef7f768393004f77a8c2cf78db6f95f5-ec6bc8e8.webp",
+        "label": "Procedural Endless Terrain — screenshot 10",
+        "source": "_-ef7f768393004f77a8c2cf78db6f95f5.jpg"
+      }
+    ],
+    "wobbly-adventures": [
+      {
+        "type": "video",
+        "src": "./media/site/wobbly-adventures/wa1-cb8f25f4-part-01.mp4",
+        "poster": "./media/site/wobbly-adventures/wa1-cb8f25f4-part-01.webp",
+        "label": "Wobbly Adventures — technical demo 1 — part 1 of 2",
+        "source": "WobblyAdventures\\WA1.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/wobbly-adventures/wa1-cb8f25f4-part-02.mp4",
+        "poster": "./media/site/wobbly-adventures/wa1-cb8f25f4-part-02.webp",
+        "label": "Wobbly Adventures — technical demo 1 — part 2 of 2",
+        "source": "WobblyAdventures\\WA1.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa10-23dc6791.webp",
+        "label": "Wobbly Adventures — screenshot 03",
+        "source": "WobblyAdventures\\WA10.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa11-183a00b6.webp",
+        "label": "Wobbly Adventures — screenshot 04",
+        "source": "WobblyAdventures\\WA11.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa12-65c99f8b.webp",
+        "label": "Wobbly Adventures — screenshot 05",
+        "source": "WobblyAdventures\\WA12.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa13-b7ba5ada.webp",
+        "label": "Wobbly Adventures — screenshot 06",
+        "source": "WobblyAdventures\\WA13.jpg"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa2-a55a4555.webp",
+        "label": "Wobbly Adventures — screenshot 07",
+        "source": "WobblyAdventures\\WA2.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa3-8b057007.webp",
+        "label": "Wobbly Adventures — screenshot 08",
+        "source": "WobblyAdventures\\WA3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa4-c8c0ec15.webp",
+        "label": "Wobbly Adventures — screenshot 09",
+        "source": "WobblyAdventures\\WA4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa5-ee794f41.webp",
+        "label": "Wobbly Adventures — screenshot 10",
+        "source": "WobblyAdventures\\WA5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa6-ef2a4493.webp",
+        "label": "Wobbly Adventures — screenshot 11",
+        "source": "WobblyAdventures\\WA6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa7-2be321b4.webp",
+        "label": "Wobbly Adventures — screenshot 12",
+        "source": "WobblyAdventures\\WA7.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa8-9633e36a.webp",
+        "label": "Wobbly Adventures — screenshot 13",
+        "source": "WobblyAdventures\\WA8.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/wa9-fba2755c.webp",
+        "label": "Wobbly Adventures — screenshot 14",
+        "source": "WobblyAdventures\\WA9.png"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/wobbly-adventures/inshot-20231222-052549457-7666648b-part-01.mp4",
+        "poster": "./media/site/wobbly-adventures/inshot-20231222-052549457-7666648b-part-01.webp",
+        "label": "Wobbly Adventures — Platforming gameplay highlights — part 1 of 2",
+        "source": "InShot_20231222_052549457.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/wobbly-adventures/inshot-20231222-052549457-7666648b-part-02.mp4",
+        "poster": "./media/site/wobbly-adventures/inshot-20231222-052549457-7666648b-part-02.webp",
+        "label": "Wobbly Adventures — Platforming gameplay highlights — part 2 of 2",
+        "source": "InShot_20231222_052549457.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/screenshot-2023-12-22-035325-527a545a.webp",
+        "label": "Wobbly Adventures — screenshot 17",
+        "source": "Screenshot 2023-12-22 035325.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/screenshot-2023-12-22-035302-72831d07.webp",
+        "label": "Wobbly Adventures — screenshot 18",
+        "source": "Screenshot 2023-12-22 035302.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/screenshot-2023-12-22-034714-cbd51e31.webp",
+        "label": "Wobbly Adventures — screenshot 19",
+        "source": "Screenshot 2023-12-22 034714.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/screenshot-2023-12-22-035121-9be8c0ac.webp",
+        "label": "Wobbly Adventures — screenshot 20",
+        "source": "Screenshot 2023-12-22 035121.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/screenshot-2023-12-22-034933-ee5c2c60.webp",
+        "label": "Wobbly Adventures — screenshot 21",
+        "source": "Screenshot 2023-12-22 034933.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/wobbly-adventures/e402571dbf184f91a51a18a42b4bd286-b721afc3.webp",
+        "label": "Wobbly Adventures — screenshot 22",
+        "source": "_-e402571dbf184f91a51a18a42b4bd286.jpg"
+      }
+    ],
+    "imho": [
+      {
+        "type": "image",
+        "src": "./media/site/imho/imho1-000ab4ab.webp",
+        "label": "IMHO — screenshot 01",
+        "source": "IMHO\\IMHO1.png"
+      }
+    ],
+    "procedural-animations": [
+      {
+        "type": "video",
+        "src": "./media/site/procedural-animations/pa1-50802cf0.mp4",
+        "poster": "./media/site/procedural-animations/pa1-50802cf0.webp",
+        "label": "Procedural Animations — Procedural locomotion features",
+        "source": "ProceduralAnimations\\PA1.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-animations/pa2-11c6db7a.mp4",
+        "poster": "./media/site/procedural-animations/pa2-11c6db7a.webp",
+        "label": "Procedural Animations — Control Rig development process",
+        "source": "ProceduralAnimations\\PA2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-animations/pa3-ae9c6d6b.mp4",
+        "poster": "./media/site/procedural-animations/pa3-ae9c6d6b.webp",
+        "label": "Procedural Animations — Procedural locomotion — multiple characters",
+        "source": "ProceduralAnimations\\PA3.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-animations/pa4-e0966540.mp4",
+        "poster": "./media/site/procedural-animations/pa4-e0966540.webp",
+        "label": "Procedural Animations — Procedural locomotion — solo",
+        "source": "ProceduralAnimations\\PA4.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-animations/pa5-6a7a6514.webp",
+        "label": "Procedural Animations — screenshot 05",
+        "source": "ProceduralAnimations\\PA5.png"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-animations/2023-12-22-18-29-52-362e5c0b.mp4",
+        "poster": "./media/site/procedural-animations/2023-12-22-18-29-52-362e5c0b.webp",
+        "label": "Procedural Animations — Physical animation experiment",
+        "source": "2023-12-22 18-29-52.mkv"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-animations/hack-n-slash-86eaa869.mp4",
+        "poster": "./media/site/procedural-animations/hack-n-slash-86eaa869.webp",
+        "label": "Procedural Animations — Combat and animation experiment",
+        "source": "Hack-N-Slash.mkv"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-animations/physicalanimation-c4911be2.mp4",
+        "poster": "./media/site/procedural-animations/physicalanimation-c4911be2.webp",
+        "label": "Procedural Animations — Physical animation demo",
+        "source": "physicalAnimation.mp4"
+      }
+    ],
+    "procedural-character-interactions": [
+      {
+        "type": "video",
+        "src": "./media/site/procedural-character-interactions/sl1-8fe09040.mp4",
+        "poster": "./media/site/procedural-character-interactions/sl1-8fe09040.webp",
+        "label": "Procedural Character Interactions — Creature hand placement",
+        "source": "Subliminal\\SL1.mkv"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-character-interactions/sl2-3afe9909.mp4",
+        "poster": "./media/site/procedural-character-interactions/sl2-3afe9909.webp",
+        "label": "Procedural Character Interactions — Environmental hand placement",
+        "source": "Subliminal\\SL2.mkv"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/procedural-character-interactions/sl3-1be690c3.mp4",
+        "poster": "./media/site/procedural-character-interactions/sl3-1be690c3.webp",
+        "label": "Procedural Character Interactions — Wall interaction demo",
+        "source": "Subliminal\\SL3.mkv"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-character-interactions/sl4-aa131759.webp",
+        "label": "Procedural Character Interactions — screenshot 04",
+        "source": "Subliminal\\SL4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/procedural-character-interactions/screenshot-2024-06-07-140919-7c9a8913.webp",
+        "label": "Procedural Character Interactions — screenshot 05",
+        "source": "Screenshot 2024-06-07 140919.png"
+      }
+    ],
+    "design-previewer": [
+      {
+        "type": "video",
+        "src": "./media/site/design-previewer/dp1-04ded458.mp4",
+        "poster": "./media/site/design-previewer/dp1-04ded458.webp",
+        "label": "Design Previewer — technical demo 1",
+        "source": "DesignPreviewer\\DP1.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/design-previewer/dp2-dd0c9ea4.webp",
+        "label": "Design Previewer — screenshot 02",
+        "source": "DesignPreviewer\\DP2.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/design-previewer/dp3-7b242f33.webp",
+        "label": "Design Previewer — screenshot 03",
+        "source": "DesignPreviewer\\DP3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/design-previewer/dp4-b2674012.webp",
+        "label": "Design Previewer — screenshot 04",
+        "source": "DesignPreviewer\\DP4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/design-previewer/dp5-5dbdca93.webp",
+        "label": "Design Previewer — screenshot 05",
+        "source": "DesignPreviewer\\DP5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/design-previewer/dp6-bab56f92.webp",
+        "label": "Design Previewer — screenshot 06",
+        "source": "DesignPreviewer\\DP6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/design-previewer/dp7-90077254.webp",
+        "label": "Design Previewer — screenshot 07",
+        "source": "DesignPreviewer\\DP7.png"
+      }
+    ],
+    "endless-runner": [
+      {
+        "type": "video",
+        "src": "./media/site/endless-runner/er1-02d89631.mp4",
+        "poster": "./media/site/endless-runner/er1-02d89631.webp",
+        "label": "Endless Runner — Procedural runner gameplay",
+        "source": "EndlessRunner\\ER1.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/endless-runner/er2-6ad5fa28.webp",
+        "label": "Endless Runner — screenshot 02",
+        "source": "EndlessRunner\\ER2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/endless-runner/er3-f50da9b5.webp",
+        "label": "Endless Runner — screenshot 03",
+        "source": "EndlessRunner\\ER3.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/endless-runner/13896545eac64ef29cea6ad225ac070b-69d28a80.webp",
+        "label": "Endless Runner — screenshot 04",
+        "source": "_-13896545eac64ef29cea6ad225ac070b.jpg"
+      }
+    ],
+    "third-person-shooter": [
+      {
+        "type": "video",
+        "src": "./media/site/third-person-shooter/tps1-065a5e40.mp4",
+        "poster": "./media/site/third-person-shooter/tps1-065a5e40.webp",
+        "label": "Third Person Shooter — Gameplay — victory",
+        "source": "ThirdPersonShooter\\TPS1.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps10-9a02fcbd.webp",
+        "label": "Third Person Shooter — screenshot 02",
+        "source": "ThirdPersonShooter\\TPS10.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps11-47615592.webp",
+        "label": "Third Person Shooter — screenshot 03",
+        "source": "ThirdPersonShooter\\TPS11.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps12-95f5e6f1.webp",
+        "label": "Third Person Shooter — screenshot 04",
+        "source": "ThirdPersonShooter\\TPS12.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps13-89347842.webp",
+        "label": "Third Person Shooter — screenshot 05",
+        "source": "ThirdPersonShooter\\TPS13.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps14-17798aa8.webp",
+        "label": "Third Person Shooter — screenshot 06",
+        "source": "ThirdPersonShooter\\TPS14.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps15-27087417.webp",
+        "label": "Third Person Shooter — screenshot 07",
+        "source": "ThirdPersonShooter\\TPS15.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps16-5a3e7dff.webp",
+        "label": "Third Person Shooter — screenshot 08",
+        "source": "ThirdPersonShooter\\TPS16.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps17-5cea8ebc.webp",
+        "label": "Third Person Shooter — screenshot 09",
+        "source": "ThirdPersonShooter\\TPS17.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps18-e6ee623a.webp",
+        "label": "Third Person Shooter — screenshot 10",
+        "source": "ThirdPersonShooter\\TPS18.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps19-cea95606.webp",
+        "label": "Third Person Shooter — screenshot 11",
+        "source": "ThirdPersonShooter\\TPS19.png"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/third-person-shooter/tps2-1bfd48ef.mp4",
+        "poster": "./media/site/third-person-shooter/tps2-1bfd48ef.webp",
+        "label": "Third Person Shooter — Gameplay — defeat",
+        "source": "ThirdPersonShooter\\TPS2.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps20-333c1c4a.webp",
+        "label": "Third Person Shooter — screenshot 13",
+        "source": "ThirdPersonShooter\\TPS20.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps21-a233cf71.webp",
+        "label": "Third Person Shooter — screenshot 14",
+        "source": "ThirdPersonShooter\\TPS21.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps22-96ba6cef.webp",
+        "label": "Third Person Shooter — screenshot 15",
+        "source": "ThirdPersonShooter\\TPS22.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps23-64ec7847.webp",
+        "label": "Third Person Shooter — screenshot 16",
+        "source": "ThirdPersonShooter\\TPS23.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps24-191f2e7e.webp",
+        "label": "Third Person Shooter — screenshot 17",
+        "source": "ThirdPersonShooter\\TPS24.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps25-25794017.webp",
+        "label": "Third Person Shooter — screenshot 18",
+        "source": "ThirdPersonShooter\\TPS25.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps26-c08bcb2b.webp",
+        "label": "Third Person Shooter — screenshot 19",
+        "source": "ThirdPersonShooter\\TPS26.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps27-068a1a7c.webp",
+        "label": "Third Person Shooter — screenshot 20",
+        "source": "ThirdPersonShooter\\TPS27.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps28-ec573ebf.webp",
+        "label": "Third Person Shooter — screenshot 21",
+        "source": "ThirdPersonShooter\\TPS28.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps29-c1a2bd40.webp",
+        "label": "Third Person Shooter — screenshot 22",
+        "source": "ThirdPersonShooter\\TPS29.png"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/third-person-shooter/tps3-2052de3d.mp4",
+        "poster": "./media/site/third-person-shooter/tps3-2052de3d.webp",
+        "label": "Third Person Shooter — Gameplay highlights",
+        "source": "ThirdPersonShooter\\TPS3.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps4-9f98676c.webp",
+        "label": "Third Person Shooter — screenshot 24",
+        "source": "ThirdPersonShooter\\TPS4.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps5-07fee0b3.webp",
+        "label": "Third Person Shooter — screenshot 25",
+        "source": "ThirdPersonShooter\\TPS5.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps6-a78d8fe8.webp",
+        "label": "Third Person Shooter — screenshot 26",
+        "source": "ThirdPersonShooter\\TPS6.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps8-a31025c0.webp",
+        "label": "Third Person Shooter — screenshot 27",
+        "source": "ThirdPersonShooter\\TPS8.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/third-person-shooter/tps9-b078bbd4.webp",
+        "label": "Third Person Shooter — screenshot 28",
+        "source": "ThirdPersonShooter\\TPS9.png"
+      }
+    ],
+    "automated-animation-pipeline": [
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap1-ec65e913.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap1-ec65e913.webp",
+        "label": "Automated Animation Pipeline — Automated facial animation result",
+        "source": "AutomatedAnimationPipeline\\AAP1.mkv"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-01.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-01.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 1 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-02.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-02.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 2 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-03.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-03.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 3 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-04.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-04.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 4 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-05.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-05.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 5 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-06.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-06.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 6 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-07.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-07.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 7 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-08.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-08.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 8 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-09.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap2-2b8e1447-part-09.webp",
+        "label": "Automated Animation Pipeline — technical demo 2 — part 9 of 9",
+        "source": "AutomatedAnimationPipeline\\AAP2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap3-ee6a227e-part-01.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap3-ee6a227e-part-01.webp",
+        "label": "Automated Animation Pipeline — technical demo 3 — part 1 of 3",
+        "source": "AutomatedAnimationPipeline\\AAP3.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap3-ee6a227e-part-02.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap3-ee6a227e-part-02.webp",
+        "label": "Automated Animation Pipeline — technical demo 3 — part 2 of 3",
+        "source": "AutomatedAnimationPipeline\\AAP3.mp4"
+      },
+      {
+        "type": "video",
+        "src": "./media/site/automated-animation-pipeline/aap3-ee6a227e-part-03.mp4",
+        "poster": "./media/site/automated-animation-pipeline/aap3-ee6a227e-part-03.webp",
+        "label": "Automated Animation Pipeline — technical demo 3 — part 3 of 3",
+        "source": "AutomatedAnimationPipeline\\AAP3.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/automated-animation-pipeline/aap4-8bcba03a.webp",
+        "label": "Automated Animation Pipeline — screenshot 14",
+        "source": "AutomatedAnimationPipeline\\AAP4.png"
+      }
+    ],
+    "word-zenith": [
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wz1-7e3a4ad2.webp",
+        "label": "Word Zenith — screenshot 01",
+        "source": "WordZenith\\WZ1.webp"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wz2-bbc7836c.webp",
+        "label": "Word Zenith — screenshot 02",
+        "source": "WordZenith\\WZ2.webp"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wz3-ede2d622.webp",
+        "label": "Word Zenith — screenshot 03",
+        "source": "WordZenith\\WZ3.webp"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wz4-7b3605ff.webp",
+        "label": "Word Zenith — screenshot 04",
+        "source": "WordZenith\\WZ4.webp"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wz6-e3c5b77e.webp",
+        "label": "Word Zenith — screenshot 05",
+        "source": "WordZenith\\WZ6.webp"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wz7-febf09fb.webp",
+        "label": "Word Zenith — screenshot 06",
+        "source": "WordZenith\\WZ7.webp"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wzss1-c98af43e.webp",
+        "label": "Word Zenith — screenshot 07",
+        "source": "WordZenith\\WZSS1.png"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/screenshot-20250927-134123-word-zenith-ef53f3a5.webp",
+        "label": "Word Zenith — screenshot 08",
+        "source": "Screenshot_20250927_134123_Word Zenith.jpg"
+      },
+      {
+        "type": "image",
+        "src": "./media/site/word-zenith/wz3-edited-bc3d9b76.webp",
+        "label": "Word Zenith — screenshot 09",
+        "source": "WZ3_edited.jpg"
+      }
+    ],
+    "spatial-audio-experience-app": []
   }
 }

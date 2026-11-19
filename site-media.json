@@ -1,11 +1,11 @@
 {
-  "_note": "Set an asset path once the local media has been reviewed and placed in this repository. Null means the designed illustration remains visible. Keep the Red Hot Ball assets current, not old Wix screenshots.",
+  "_note": "Four reviewed project covers are populated independently of full galleries. Four Red Hot Ball slots remain null until current-build captures are available.",
   "rhb-cover": null,
   "rhb-shot-1": null,
   "rhb-shot-2": null,
   "rhb-shot-3": null,
-  "kai-cover": null,
-  "rokeya-cover": null,
-  "word-zenith-cover": null,
-  "imho-cover": null
+  "kai-cover": "./media/site/kai-s-dream/kd4-7ec98f27.webp",
+  "rokeya-cover": "./media/site/rokeya-s-garden/rg1-33b7b801.webp",
+  "word-zenith-cover": "./media/site/word-zenith/wz1-7e3a4ad2.webp",
+  "imho-cover": "./media/site/imho/imho1-000ab4ab.webp"
 }

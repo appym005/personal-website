@@ -18,3 +18,7 @@ personalwebsite_chat_context.txt
 # environment
 .env
 .env.*
+
+# Local browser verification artifacts
+output/
+.playwright-cli/

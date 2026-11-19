@@ -13,9 +13,10 @@ tailwind.config.cjs
 # Notes / drafts
 *.md
 website-content-package.json
-projects.normalized.json
-experience.normalized.json
 personalwebsite_chat_context.txt
 
 # Local scratch
 _cf_pages/
+output/
+.playwright-cli/
+media-inventory.json

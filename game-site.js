@@ -43,7 +43,8 @@
           img.className = "media-loaded";
           img.alt = slot.getAttribute("data-media-alt") || "";
           img.decoding = "async";
-          img.loading = "lazy";
+          // Detached lazy images may never load before the onload insertion below.
+          img.loading = "eager";
           img.onload = () => { slot.appendChild(img); slot.classList.add("is-filled"); };
           img.src = src;
         });
