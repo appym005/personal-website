@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#080f19">
+  <meta name="description" content="Candle Clash is a free, live-crypto price prediction arcade game. Predict BTC, ETH or SOL in 60 seconds. No bets, no wallet, just bragging rights.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Candle Clash — Beat the Candle">
+  <meta property="og:description" content="60 seconds. One prediction. Can you beat the candle? Free crypto arcade with live prices. No bets or real-money rewards.">
+  <meta property="og:image" content="https://www.touchstonegames.in/candle-clash/og.svg">
+  <link rel="canonical" href="https://www.touchstonegames.in/candle-clash/">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./game.js" defer></script>
+  <title>Candle Clash | 60-second crypto arcade</title>
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <header class="topbar">
+    <a href="./" class="brand" aria-label="Candle Clash home"><span class="brand-icon"><span class="brand-bars">▂▆▃█</span></span><span>CANDLE<span class="brand-accent">CLASH</span><small>THE CRYPTO ARCADE</small></span></a>
+    <div class="top-actions"><div class="feed-status" id="feed-status"><span class="status-dot"></span><span id="feed-label">CONNECTING</span></div><a class="top-partner" href="./partners.html">SPONSOR A ROUND <span aria-hidden="true">↗</span></a></div>
+  </header>
+
+  <main class="site-content">
+    <section class="intro" aria-labelledby="main-title"><div class="intro-top"><span class="eyebrow">// THE MARKET NEVER SLEEPS. NEITHER DOES THE GAME.</span><span class="season">SEASON 001 <span class="star">✦</span> LIVE ARCADE</span></div><h1 id="main-title">BEAT THE <em>CANDLE<span>.</span></em></h1><p>Pick a coin. Call the next move. You've got <strong>60 seconds</strong> to prove your instincts.</p></section>
+    <div class="layout">
+      <section class="terminal panel" aria-label="Live trading chart and prediction game">
+        <div class="terminal-header"><div class="terminal-label"><span class="window-dots"><i></i><i></i><i></i></span><span>MARKET_TERMINAL / 01</span></div><span class="terminal-badge" id="provider-badge">WAITING FOR FEED</span></div>
+        <div class="coin-tabs" role="group" aria-label="Choose a cryptocurrency">
+          <button class="coin active" data-asset="BTC" aria-pressed="true"><span class="coin-symbol coin-btc">₿</span><span>BITCOIN<small>BTC</small></span></button>
+          <button class="coin" data-asset="ETH" aria-pressed="false"><span class="coin-symbol coin-eth">◆</span><span>ETHEREUM<small>ETH</small></span></button>
+          <button class="coin" data-asset="SOL" aria-pressed="false"><span class="coin-symbol coin-sol">≋</span><span>SOLANA<small>SOL</small></span></button>
+        </div>
+        <div class="price-header"><div><span class="micro-label">CURRENT PRICE <span class="thin" id="currency-label">/ USDT</span></span><div class="price-row"><span class="price" id="live-price">—</span><span class="price-delta" id="price-delta">—</span></div></div><div class="price-right"><div class="micro-label">ROUND ENDS IN</div><div class="timer" id="round-timer" aria-live="off">01:00</div></div></div>
+        <div class="timer-track"><div id="timer-progress"></div></div>
+        <div class="chart-shell"><div class="chart-edge-labels"><span>LIVE PRICE FEED</span><span id="chart-mark">BTC / USDT</span></div><canvas id="price-chart" aria-label="Live price chart" role="img"></canvas><div class="chart-offline" id="chart-offline"><span class="spinner" aria-hidden="true"></span><span id="chart-offline-label">Connecting to live market data…</span></div><div class="chart-bottom"><span><span class="live-pip"></span> MARKET DATA, NOT A SIMULATION</span><span id="last-tick">—</span></div></div>
+        <div class="challenge"><div class="challenge-title"><div><span class="eyebrow">// YOUR CALL</span><h2>HIGHER OR LOWER?</h2></div><div class="entry-price" id="entry-label">ENTRY <span>LOCKED WHEN YOU PLAY</span></div></div><p class="challenge-copy" id="challenge-copy">Predict where the market price will be in 60 seconds. Nothing to deposit. Everything to prove.</p>
+          <div class="action-row"><button class="trade-btn up" id="call-up" disabled><span class="trade-arrow">↗</span><span><strong>HIGHER</strong><small>PRESS ↑ OR TAP</small></span></button><button class="trade-btn down" id="call-down" disabled><span class="trade-arrow">↘</span><span><strong>LOWER</strong><small>PRESS ↓ OR TAP</small></span></button></div>
+          <div class="round-message" id="round-message" aria-live="polite">Waiting for fresh market prices…</div>
+          <div class="round-result hidden" id="round-result" aria-live="polite"><span class="result-emoji" id="result-emoji">✦</span><div class="result-copy"><strong id="result-title">ROUND COMPLETE</strong><span id="result-detail">—</span></div><strong class="result-points" id="result-points">+0</strong><button id="play-again" class="play-again">PLAY AGAIN ↗</button></div>
+        </div>
+        <div class="terminal-footer"><span>⊙ NO STAKES</span><span>⊙ NO WALLET</span><span>⊙ JUST THE CHART</span></div>
+      </section>
+      <aside class="sidebar"><section class="score-card panel"><div class="sidebar-header"><span class="eyebrow">// PLAYER STATS</span><span>LOCAL PROFILE</span></div><div class="score-label">YOUR ARCADE SCORE</div><div class="score-number" id="score-value">0</div><div class="score-sub">VIRTUAL POINTS <span aria-hidden="true">✳</span> NO CASH VALUE</div><div class="stat-grid"><div><span>WIN STREAK</span><strong id="streak-value">0 <small>🔥</small></strong></div><div><span>BEST STREAK</span><strong id="best-streak">0</strong></div><div><span>ROUNDS WON</span><strong id="wins-value">0</strong></div><div><span>WIN RATE</span><strong id="rate-value">0%</strong></div></div><button id="share-score" class="share-button">SHARE YOUR SCORE <span aria-hidden="true">↗</span></button><p class="score-notice" id="share-feedback" aria-live="polite">Scores are stored only on this device.</p></section>
+        <section class="sponsor-card panel"><div class="sponsor-head"><span>YOUR BRAND HERE</span><span class="sponsor-tiny">AD SPACE</span></div><div class="sponsor-art" aria-hidden="true"><span>✦</span><div class="ad-grid"></div><div class="sponsor-orb"></div></div><h3>OWN THE<br><em>NEXT ROUND.</em></h3><p>Get your project in front of crypto-curious players. Be an early launch partner.</p><a href="./partners.html">EXPLORE SPONSORSHIP <span aria-hidden="true">↗</span></a></section>
+        <section class="how-card"><div class="eyebrow">// THE RULES</div><div class="how-item"><span>01</span><p>Choose BTC, ETH, or SOL and wait for a live price.</p></div><div class="how-item"><span>02</span><p>Call <strong>HIGHER</strong> or <strong>LOWER</strong> to lock your entry.</p></div><div class="how-item"><span>03</span><p>After 60 seconds: +100 points for a win, −50 for a miss. Streaks add bonus points.</p></div></section>
+      </aside>
+    </div>
+    <div class="bottom-marquee"><span>DON'T TRADE IT. <strong>PLAY IT.</strong></span><span>✳</span><span>REAL PRICES. <strong>FAKE POINTS.</strong></span><span>✳</span><span>ONE CANDLE AT A TIME.</span></div>
+  </main>
+  <footer class="footer"><span>© <span id="year">2026</span> CANDLE CLASH · A TOUCHSTONE GAMES EXPERIMENT</span><div><a href="./partners.html">PARTNER WITH US</a><a href="https://www.touchstonegames.in/">TOUCHSTONE GAMES ↗</a></div><p>Free entertainment only. Not financial advice, an exchange, or investment guidance. No deposits, wagering, or monetary prizes. Quotes from public third-party market streams; may be delayed or interrupted.</p></footer>
+</body>
+</html>
